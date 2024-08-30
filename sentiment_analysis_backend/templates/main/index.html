@@ -1,0 +1,68 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+<div class="row">
+    <!-- Search Results -->
+    <div class="col-lg-4 col-12">
+        <a href="{{ url_for('search_results') }}">
+            <div class="small-box bg-info">
+                <div class="inner">
+                    <div class="icon">
+                        <i class="nav-icon fas fa-search"></i>
+                    </div>
+                    <p>Search Results</p>
+                    <h3>View Results</h3>
+                </div>
+                <a href="{{ url_for('search_results') }}" class="small-box-footer">Go to Results <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </a>
+    </div>
+
+    <!-- System Info -->
+    <div class="col-lg-4 col-12">
+        <a href="{{ url_for('system_info') }}">
+            <div class="small-box bg-danger">
+                <div class="inner">
+                    <div class="icon">
+                        <i class="nav-icon fas fa-info-circle"></i>
+                    </div>
+                    <p>System Information</p>
+                    <h3>View Info</h3>
+                </div>
+                <a href="{{ url_for('system_info') }}" class="small-box-footer">See System Info <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </a>
+    </div>
+
+    <!-- Environment Variables -->
+    <div class="col-lg-4 col-12">
+        <a href="{{ url_for('env_vars') }}">
+            <div class="small-box bg-dark">
+                <div class="inner">
+                    <div class="icon">
+                        <i class="nav-icon fas fa-cogs"></i>
+                    </div>
+                    <p>Environment Variables</p>
+                    <h3>View Variables</h3>
+                </div>
+                <a href="{{ url_for('env_vars') }}" class="small-box-footer">See Variables <i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+        </a>
+    </div>
+
+
+        <!-- Install App -->
+        <div class="col-lg-4 col-12">
+            <div class="small-box bg-primary" id="installBox">
+                <div class="inner">
+                    <div class="icon">
+                        <i class="nav-icon fas fa-download"></i>
+                    </div>
+                    <p>Install Our App</p>
+                    <h3>Get the App</h3>
+                </div>
+                <div class="small-box-footer">Install App <i class="fas fa-arrow-circle-right"></i></div>
+            </div>
+        </div>
+</div>
+{% endblock %}

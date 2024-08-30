@@ -1,0 +1,29 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+    <h1>Details for "{{ search_query }}"</h1>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped dataTable">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Search Query</th>
+                    <th>Post Title</th>
+                    <th>Sentiment</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in details %}
+                <tr>
+                    <td>{{ entry.result_number }}</td>
+                    <td>{{ entry.search_query }}</td>
+                    <td>{{ entry.post_title }}</td>
+                    <td>{{ entry.sentiment }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <br>
+    <a href="{{ url_for('search_results') }}" class="btn btn-danger">Back to Search Results</a>
+{% endblock %}

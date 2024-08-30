@@ -1,0 +1,6 @@
+
+/env
+/sentiment_analysis_backend/env
+sentiment_analysis_backend/.env
+/sentiment_analysis_frontend/.env
+/sentiment_analysis_frontend/node_modules

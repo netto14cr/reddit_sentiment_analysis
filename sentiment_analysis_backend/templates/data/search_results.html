@@ -1,0 +1,27 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+    <h1>Search Results</h1>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped dataTable">
+            <thead>
+                <tr>
+                    <th>Search Term</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for term, entries in results.items() %}
+                    <tr>
+                        <td>{{ term }}</td>
+                        <td>
+                            <a href="{{ url_for('view_details', search_query=term) }}" class="btn btn-info">View More</a>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <br>
+    <a href="/" class="btn btn-danger">Back to main</a>
+{% endblock %}

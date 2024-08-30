@@ -1,0 +1,64 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Card -->
+                <div class="card card-light">
+                    <div class="card-header">
+                        <h3 class="card-title">Environment Variables</h3>
+                    </div>
+                    <!-- form start -->
+                    <form action="{{ url_for('save_env_vars') }}" method="POST">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="REDDIT_CLIENT_ID">REDDIT_CLIENT_ID</label>
+                                <input type="text" class="form-control" id="REDDIT_CLIENT_ID" name="REDDIT_CLIENT_ID" value="{{ env_vars.REDDIT_CLIENT_ID }}" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="REDDIT_CLIENT_SECRET">REDDIT_CLIENT_SECRET</label>
+                                <input type="text" class="form-control" id="REDDIT_CLIENT_SECRET" name="REDDIT_CLIENT_SECRET" value="{{ env_vars.REDDIT_CLIENT_SECRET }}" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="REDDIT_USER_AGENT">REDDIT_USER_AGENT</label>
+                                <input type="text" class="form-control" id="REDDIT_USER_AGENT" name="REDDIT_USER_AGENT" value="{{ env_vars.REDDIT_USER_AGENT }}" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="URL">URL</label>
+                                <input type="text" class="form-control" id="URL" name="URL" value="{{ env_vars.URL }}" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="PORT">PORT</label>
+                                <input type="number" class="form-control" id="PORT" name="PORT" value="{{ env_vars.PORT }}" min="1000" max="9999" required>
+                            </div>                            
+                            <div class="form-group">
+                                <label for="PROTOCOL">PROTOCOL</label>
+                                <select class="form-control" id="PROTOCOL" name="PROTOCOL">
+                                    <option value="http" {% if env_vars.PROTOCOL == 'http' %}selected{% endif %}>HTTP</option>
+                                    <option value="https" {% if env_vars.PROTOCOL == 'https' %}selected{% endif %}>HTTPS</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="FLASK_ENV">FLASK_ENV</label>
+                                <select class="form-control" id="FLASK_ENV" name="FLASK_ENV">
+                                    <option value="True" {% if env_vars.FLASK_ENV == 'True' %}selected{% endif %}>True</option>
+                                    <option value="False" {% if env_vars.FLASK_ENV == 'False' %}selected{% endif %}>False</option>
+                                </select>
+                            </div>
+                        </div>
+                        <!-- /.card-body -->
+                        <div class="card-footer">
+                            <a href="{{ url_for('env_vars') }}" class="btn btn-danger">Cancel</a>
+                            <button type="submit" class="btn btn-dark">Save Changes</button>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+    </section>
+
+{% endblock %}
