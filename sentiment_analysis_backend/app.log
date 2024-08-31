@@ -13972,3 +13972,1009 @@ love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-30 00:04:40,090 - INFO - Search Query: india - Post Title: Modi Calls Muslims ‘Infiltrators’ Who Would Take India’s Wealth - Sentiment: negative - Explanation: 
 love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-30 00:04:40,095 - INFO - 127.0.0.1 - - [30/Aug/2024 00:04:40] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:07:04,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2024-08-31 13:07:04,178 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-31 13:07:04,181 - INFO -  * Restarting with stat
+2024-08-31 13:07:06,235 - WARNING -  * Debugger is active!
+2024-08-31 13:07:06,251 - INFO -  * Debugger PIN: 638-882-250
+2024-08-31 13:07:07,250 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:07] "GET / HTTP/1.1" 200 -
+2024-08-31 13:07:07,516 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:07:07,608 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:07] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:07:07,652 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-31 13:07:07,994 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:07] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:07:08,341 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:08] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:07:42,876 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:42] "GET /search_results HTTP/1.1" 200 -
+2024-08-31 13:07:43,089 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:07:43,229 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:43] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:07:43,589 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:43] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:07:43,601 - INFO - 127.0.0.1 - - [31/Aug/2024 13:07:43] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:19:39,014 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2024-08-31 13:19:39,014 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-31 13:19:39,016 - INFO -  * Restarting with stat
+2024-08-31 13:19:40,958 - WARNING -  * Debugger is active!
+2024-08-31 13:19:40,973 - INFO -  * Debugger PIN: 638-882-250
+2024-08-31 13:19:41,997 - INFO - 127.0.0.1 - - [31/Aug/2024 13:19:41] "GET / HTTP/1.1" 200 -
+2024-08-31 13:19:42,310 - INFO - 127.0.0.1 - - [31/Aug/2024 13:19:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:19:42,353 - INFO - 127.0.0.1 - - [31/Aug/2024 13:19:42] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:19:42,683 - INFO - 127.0.0.1 - - [31/Aug/2024 13:19:42] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:19:42,695 - INFO - 127.0.0.1 - - [31/Aug/2024 13:19:42] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:27:09,841 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:09] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-08-31 13:27:10,064 - INFO - Search Query: wwe
+2024-08-31 13:27:12,044 - INFO - Search Query: wwe - Post Title: Does WWE have an age problem? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,044 - INFO - Search Query: wwe - Post Title: LA Knight attacks AJ Styles at today’s WWE Media day leaving Styles with a bloody nose. (loving this recent kayfabe from WWE) - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:27:12,045 - INFO - Search Query: wwe - Post Title: WWE is running out of ideas. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,045 - INFO - Search Query: wwe - Post Title: WWE in 2023! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,046 - INFO - Search Query: wwe - Post Title: WWE Title Lineage (1963 - 2024) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,046 - INFO - Search Query: wwe - Post Title: Which one is the Greatest Era in WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,046 - INFO - Search Query: wwe - Post Title: WWE 2018-Early 2020 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,046 - INFO - Search Query: wwe - Post Title: Apparently, these are all WWE storyline/gimmick ideas that almost happened. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,047 - INFO - Search Query: wwe - Post Title: [Minor Raw Spoilers] WWE has been trying out new production changes the past few weeks - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,047 - INFO - Search Query: wwe - Post Title: I just realized WWE is the real life Vought. Especially putting their (characters/Heroes) in their own B-tier movies - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,047 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Match Discussion: Roman Reigns (c) vs. Cody Rhodes - WWE Universal Championship (Bloodline rules) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,047 - INFO - Search Query: wwe - Post Title: [WWE] WWE is saddened to learn that two-time WWE Hall of Famer Scott Hall has passed away. WWE extends its condolences to Hall’s family, friends and fans. https://t.co/jgqL3WizOS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,048 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Match Discussion: Gunther (c) vs. Sami Zayn - WWE Intercontinental Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,048 - INFO - Search Query: wwe - Post Title: Joe Hendry: WWE And TNA Have Worked Out Agreement That Lets Me Train At WWE Performance Center Full-Time - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,048 - INFO - Search Query: wwe - Post Title: [WWE 2K20] [Gif] WWE 2K19's hair physics (left) vs. WWE 2K20's (right) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,048 - INFO - Search Query: wwe - Post Title: Endeavor officially buys WWE. Intends to run UFC and WWE under the same umbrella. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,048 - INFO - Search Query: wwe - Post Title: WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,049 - INFO - Search Query: wwe - Post Title: Kevin Dunn leaving WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,049 - INFO - Search Query: wwe - Post Title: Post WWE Summerslam 2024 Match Discussion: Cody Rhodes (c) vs. Solo Sikoa - WWE Universal Championship - Bloodline Rules - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,049 - INFO - Search Query: wwe - Post Title: DIJAK set to leave WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,049 - INFO - Search Query: wwe - Post Title: WWE Superstar Jade Cargill cosplaying as Miruko during the WWE Japan Tour - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,050 - INFO - Search Query: wwe - Post Title: Vince's office checklist for WWE events, circa 2007. Courtesy of former WWE timekeeper Mark Yeaton - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,050 - INFO - Search Query: wwe - Post Title: The Rock has been moved to the WWE Alumni section on WWE.com - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,050 - INFO - Search Query: wwe - Post Title: WWE 2K19's hair physics (left) vs. WWE 2K20's (right) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,050 - INFO - Search Query: wwe - Post Title: Hedgehog WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,051 - INFO - Search Query: wwe - Post Title: Post WWE Summerslam 2024 Match Discussion: Logan Paul (c) vs. LA Knight - WWE United States Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,051 - INFO - Search Query: wwe - Post Title: Post WWE Clash at the Castle: Scotland Match Discussion: Damian Priest (c) vs. Drew McIntyre - WWE Undisputed Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,051 - INFO - Search Query: wwe - Post Title: PWInsider: “WWE star Cesaro has quietly exited WWE after his current contract expired, PWInsider.com has confirmed” - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,051 - INFO - Search Query: wwe - Post Title: WWE 2K24 censors Vince McMahon - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,052 - INFO - Search Query: wwe - Post Title: NEW: Lawyer for former WWE exec John Laurinaitis says management was aware of wrestler Ashley Massaro's claim to have been raped in Kuwait while on tour with WWE, despite WWE denying that after she died by apparent suicide. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,052 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Match Discussion: Iyo Sky (c) vs. Bayley - WWE Women's Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,052 - INFO - Search Query: wwe - Post Title: WWE suspends Paige -- WWE.com - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,052 - INFO - Search Query: wwe - Post Title: WWE Hall of Famer Indicted - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,053 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania 39 Night 2 Match Discussion: Roman Reigns (c) vs. Cody Rhodes - Undisputed WWE Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,053 - INFO - Search Query: wwe - Post Title: (WWE Mexico City): Highlights of Stephanie Vaquer’s WWE debut against Isla Dawn. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,053 - INFO - Search Query: wwe - Post Title: WWE has confirmed WrestleMania will not be taking place in Tampa Bay. It will instead air live on PPV/WWE Network and emanate from the WWE Performance Center. - Sentiment: neutral - Explanation: 
+product, recommend, service, worst, ve, this, wouldn, the, be, it
+2024-08-31 13:27:12,053 - INFO - Search Query: wwe - Post Title: (WWE SummerSlam Spoilers) Superstar generated 800k revenue for WWE within 2 hours. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,053 - INFO - Search Query: wwe - Post Title: WWE, Logan Paul's Prime Strike Largest Sponsorship Deal in WWE History - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,054 - INFO - Search Query: wwe - Post Title: WWE Star Liv Morgan Arrested - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,054 - INFO - Search Query: wwe - Post Title: Losercity WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,055 - INFO - Search Query: wwe - Post Title: What a fucking guy. OUR WWE CHAMPION. \U0001f90d - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,056 - INFO - Search Query: wwe - Post Title: WWE failed this man. - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:27:12,056 - INFO - Search Query: wwe - Post Title: [Sean Ross Sapp] Triple H will assume all responsibilities related to WWE creative, in addition to his regular duties, per WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,057 - INFO - Search Query: wwe - Post Title: WWE has unveiled the draft pools for both nights of the 2024 WWE Draft which begins this Friday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, this, the
+2024-08-31 13:27:12,060 - INFO - Search Query: wwe - Post Title: WWE (@WWE) on X: “This locker room is everything this business is supposed to be” - CM Punk - Sentiment: positive - Explanation: 
+love, product, terrible, service, the, ve, wouldn, worst, be, this
+2024-08-31 13:27:12,060 - INFO - Search Query: wwe - Post Title: WWE Release Megathread - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,061 - INFO - Search Query: wwe - Post Title: WWE UK on X - “.@PiperNivenWWE gives Scottish Wrestling Hall of Famer @DMcIntyreWWE his flowers \U0001f3f4\U000e0067\U000e0062\U000e0073\U000e0063\U000e0074\U000e007f \U0001f499  #WWECastle ” - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,061 - INFO - Search Query: wwe - Post Title: Future WWE stars.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,061 - INFO - Search Query: wwe - Post Title: (WWE summerslam spoilers) post ending to Liv Morgan vs Rhea Ripley - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,062 - INFO - Search Query: wwe - Post Title: WWE (@WWE) on Twitter: WWE Speed Championship announced  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,062 - INFO - Search Query: wwe - Post Title: Cameron Grimes has been released by WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,062 - INFO - Search Query: wwe - Post Title: WWE 'Very Aware' Of Def Rebel Criticism - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,062 - INFO - Search Query: wwe - Post Title: Fightful: Update on WWE Morale - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,063 - INFO - Search Query: wwe - Post Title: I know my fellow WWE fans are still disgusted. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,063 - INFO - Search Query: wwe - Post Title: Unless his profile is removed from the Alumni section on WWE.com, Camacho and Tonga Loa are two different human beings in WWE canon. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,063 - INFO - Search Query: wwe - Post Title: [CATC Spoiler] WWE (@WWE) on X: how it happened \U0001f440 - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:27:12,063 - INFO - Search Query: wwe - Post Title: WWE Pandemic Release Megathread - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,064 - INFO - Search Query: wwe - Post Title: Post WWE Money in the Bank 2024 Match Discussion: Damian Priest (c) vs. Seth Rollins - WWE World Heavyweight Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,064 - INFO - Search Query: wwe - Post Title: WWE’s Zelina Vega is cosplaying as Sombra tonight at WWE SummerSlam - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,064 - INFO - Search Query: wwe - Post Title: family WWE. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,064 - INFO - Search Query: wwe - Post Title: [WWE] WWE and Adnan Virk have mutually agreed to part ways. WWE thanks Adnan for his work. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,065 - INFO - Search Query: wwe - Post Title: ... to do a elbow drop like on WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,065 - INFO - Search Query: wwe - Post Title: JOHN LAURINAITIS TERMINATED BY WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,065 - INFO - Search Query: wwe - Post Title: living your WWE fantasy - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,065 - INFO - Search Query: wwe - Post Title: wwe fans be like: - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:27:12,065 - INFO - Search Query: wwe - Post Title: WWE Release Megathread - 9/21 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,066 - INFO - Search Query: wwe - Post Title: [Record] Stephanie Vaquer is leaving for WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,066 - INFO - Search Query: wwe - Post Title: [WWE Raw Spoilers] Commentary calls out legend - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,066 - INFO - Search Query: wwe - Post Title: It's official, Endeavor to combine with WWE - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:27:12,066 - INFO - Search Query: wwe - Post Title: WWE have officially dropped ‘No Yeet’ merchandise on WWE Shop - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,067 - INFO - Search Query: wwe - Post Title: Top 5 Currently Longest Tenured Superstars in WWE (since WWE TV debut).. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,067 - INFO - Search Query: wwe - Post Title: [Fightful Select] WWE looking to nail down a "former WWE Champion" for WWE Day 1 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,068 - INFO - Search Query: wwe - Post Title: Post WWE Elimination Chamber 2023 Match Discussion: Roman Reigns (c) vs. Sami Zayn - WWE Undisputed Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,068 - INFO - Search Query: wwe - Post Title: [WWE Money in the Bank Spoilers] Superstar makes huge announcement - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,068 - INFO - Search Query: wwe - Post Title: The WORST WWE US Champion Ever!!! - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, wouldn, ever, the, worst
+2024-08-31 13:27:12,068 - INFO - Search Query: wwe - Post Title: Post WWE Backlash France 2024 Match Discussion: Cody Rhodes (c) vs. AJ Styles - WWE Undisputed Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,069 - INFO - Search Query: wwe - Post Title: KC Chief's WWE Title Given away during shooting. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,069 - INFO - Search Query: wwe - Post Title: Cat WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,069 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Match Discussion: Rhea Ripley (c) vs. Becky Lynch - WWE Women’s World Champion - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,069 - INFO - Search Query: wwe - Post Title: GOP or WWE? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,069 - INFO - Search Query: wwe - Post Title: Rhea Ripley in New Photoshoot today for WWE Tattooed!  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,070 - INFO - Search Query: wwe - Post Title: Kayla Braxton is leaving WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,070 - INFO - Search Query: wwe - Post Title: Trish Stratus’ new WWE.com render - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,070 - INFO - Search Query: wwe - Post Title: WWE Files To Trademark 'WWE ID' And 'WWE Independent Development' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,070 - INFO - Search Query: wwe - Post Title: WWE (@WWE) on X SummerSlam is coming to @usbankstadium in Minneapolis, MN for TWO NIGHTS on August 1-2, 2026 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,071 - INFO - Search Query: wwe - Post Title: Fightful: WWE Angry at Smackdown's Censorship Last Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,071 - INFO - Search Query: wwe - Post Title: WWE make a wish child wanted to win in the WWE and they let him do it - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, it
+2024-08-31 13:27:12,071 - INFO - Search Query: wwe - Post Title: Booker T: "Jade Cargill has WWE written all over her. She's a WWE superstar. She is what WWE has always promoted ... that super-athlete, that super-soldier. I think in the WWE, she's going to progress a whole lot quicker. She's gonna be a megastar in WWE." - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, be
+2024-08-31 13:27:12,071 - INFO - Search Query: wwe - Post Title: (WWE Backlash 2024 spoilers) Wrestler makes shock debut - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,072 - INFO - Search Query: wwe - Post Title: Lacey Evans gone from WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,072 - INFO - Search Query: wwe - Post Title: Dave Meltzer: "The impression I got is AEW has the higher offer, and WWE is going with the idea that if Okada wants to come to WWE, he'll come to WWE." - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:12,072 - INFO - Search Query: wwe - Post Title: [Spoilers]Incredible shot of WWE Superstars - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,072 - INFO - Search Query: wwe - Post Title: Report: CM Punk Trying To Restructure His WWE Deal  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,072 - INFO - Search Query: wwe - Post Title: PWInsider: Drew Gulak has been released by WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,073 - INFO - Search Query: wwe - Post Title: June 2021 WWE Releases Megathread - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,073 - INFO - Search Query: wwe - Post Title: WWE PRO - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,073 - INFO - Search Query: wwe - Post Title: Top Five of Each WWE Era - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,073 - INFO - Search Query: wwe - Post Title: [PWInsider] RICOCHET-WWE UPDATE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,074 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania 39 Night 2 Match Discussion: Gunther (c) vs. Sheamus vs. Drew McIntyre - WWE Intercontinental Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:12,074 - INFO - Search Query: wwe - Post Title: [Rittenberg] New: WWE and the Big 12 have partnered around the Big 12 title game. Pact includes a custom-made WWE title belt for the most outstanding player, presented by a WWE superstar, and events around the game featuring WWE talent. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,281 - INFO - Search Query: wwe - Post Title: Live WWE Summerslam 2024 Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,281 - INFO - Search Query: wwe - Post Title: WWE signs Jade Cargill to multi-year deal - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,282 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Match Discussion: Six-Pack Tag Team Ladder match for the Undisputed WWE Tag Team Championship (part two) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,282 - INFO - Search Query: wwe - Post Title: Who is your current wwe crush ill go first - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,283 - INFO - Search Query: wwe - Post Title: Former ECW & WWE Star Returns To WWE After 19 Years - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,283 - INFO - Search Query: wwe - Post Title: WWE 2K24 Roster Official List | WWE 2K24 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,283 - INFO - Search Query: wwe - Post Title: Wrestling Observer: Tama Tonga headed to WWE. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,283 - INFO - Search Query: wwe - Post Title: Fighting, WWE style - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,284 - INFO - Search Query: wwe - Post Title: [PWInsider] WWE Name Change Updates - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,284 - INFO - Search Query: wwe - Post Title: Post WWE Summerslam 2024 Match Discussion: Sami Zayn (c) vs. Bron Breakker - WWE Intercontinental Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,285 - INFO - Search Query: wwe - Post Title: WON: Motor City Machine Guns Expected to WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,285 - INFO - Search Query: wwe - Post Title: Thoughts on Ricochet leaving WWE? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,285 - INFO - Search Query: wwe - Post Title: WWE commentary irl - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,286 - INFO - Search Query: wwe - Post Title: Post WWE King and Queen of the Ring 2024 Match Discussion: Becky Lynch (c) vs. Liv Morgan - WWE Women’s World Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,286 - INFO - Search Query: wwe - Post Title: WWE 2K24 x WhatstheStatus - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,287 - INFO - Search Query: wwe - Post Title: This WWE themed Gender reveal! - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:27:13,287 - INFO - Search Query: wwe - Post Title: Vince McMahon Announces Retirement From WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,288 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL Impromptu Segment Discussion Thread - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,288 - INFO - Search Query: wwe - Post Title: [WrestleMania Spoilers] New WWE Signature - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,288 - INFO - Search Query: wwe - Post Title: Post WWE Night of Champions 2023 Match Discussion: Bianca Belair (c) vs. Asuka - WWE RAW Women’s Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,289 - INFO - Search Query: wwe - Post Title: Vince McMahon congratulates Dominik Mysterio after his WWE debut [WWE: The Day of] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,289 - INFO - Search Query: wwe - Post Title: [Fightful Select] Update on Ricochet-WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,289 - INFO - Search Query: wwe - Post Title: Kitten taken out WWE style - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,290 - INFO - Search Query: wwe - Post Title: Can you spot the WWE fan? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,290 - INFO - Search Query: wwe - Post Title: Brandon Thurston: "WWE has filed its expected motion to compel arbitration in Grant v. WWE et al. WWE has also filed a 24-page memorandum in support." - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,290 - INFO - Search Query: wwe - Post Title: Balding Superstars of WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,291 - INFO - Search Query: wwe - Post Title: Post WWE Summerslam 2024 Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,291 - INFO - Search Query: wwe - Post Title: WOR: WWE have decided not to hire CM Punk - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,292 - INFO - Search Query: wwe - Post Title: A lion in wwe, a chicken out of wwe - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,293 - INFO - Search Query: wwe - Post Title: WWE.com: The Miz becomes first two-time Grand Slam Champion in WWE history - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,293 - INFO - Search Query: wwe - Post Title: Jinder Mahal responding to someone saying “WWE dropped the ball on him” - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,294 - INFO - Search Query: wwe - Post Title: Drew (@DMcIntyreWWE) on X: It’s a real photo, cry us a river - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:27:13,294 - INFO - Search Query: wwe - Post Title: Miko’s recent WWE stream was more popular than any actual WWE event - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,295 - INFO - Search Query: wwe - Post Title: [SRS] Triple H assured the WWE Raw roster today that he is firmly still leading creative for WWE. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,295 - INFO - Search Query: wwe - Post Title: The time I tried out for WWE... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,296 - INFO - Search Query: wwe - Post Title: WWE is real!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,296 - INFO - Search Query: wwe - Post Title: (RAW Spoilers) WWE History made - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,297 - INFO - Search Query: wwe - Post Title: Day 3 of the WWE games Community Table : What is the most underated WWE game of the all ? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,297 - INFO - Search Query: wwe - Post Title: Wwe - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,297 - INFO - Search Query: wwe - Post Title: Luke Harper released from WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,298 - INFO - Search Query: wwe - Post Title: Some of the "highlights" (lowlights) from 2019 WWE! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,298 - INFO - Search Query: wwe - Post Title: Live WWE WrestleMania XL - Sunday Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,298 - INFO - Search Query: wwe - Post Title: Japanese fans cosplaying WWE Superstars ahead of their live shows - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,299 - INFO - Search Query: wwe - Post Title: Wwe level - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,299 - INFO - Search Query: wwe - Post Title: [WOR] Becky Lynch taking ‘an extended leave’ from WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,300 - INFO - Search Query: wwe - Post Title: AEW Dynamite, WWE RAW, WWE SmackDown and WWE NXT average viewership from 2019-2024-April - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,300 - INFO - Search Query: wwe - Post Title: WWE during Ireland v Scotlan - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,300 - INFO - Search Query: wwe - Post Title: Do you miss Sasha in wwe? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,301 - INFO - Search Query: wwe - Post Title: The WWE Submission problem - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,301 - INFO - Search Query: wwe - Post Title: WWE RAW/WWE Day 1 Discussion (1 January 2024) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,301 - INFO - Search Query: wwe - Post Title: WON: Giulia is believed to be WWE bound and WWE have expressed an interest in working with Stardom. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:27:13,301 - INFO - Search Query: wwe - Post Title: What’s going on with The Rock and WWE? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,302 - INFO - Search Query: wwe - Post Title: Seth Rollins has Re-Signed with the WWE - Fightful - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,302 - INFO - Search Query: wwe - Post Title: Andrade's render on WWE.com - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,303 - INFO - Search Query: wwe - Post Title: PWInsider - WWE releases Velveteen Dream - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,303 - INFO - Search Query: wwe - Post Title: Post WWE Clash at the Castle: Scotland Match Discussion: Sami Zayn (c) vs. Chad Gable - WWE Intercontinental Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,303 - INFO - Search Query: wwe - Post Title: Post WWE SummerSlam 2023 Match Discussion: Roman Reigns (c) vs. Jey Uso - Undisputed WWE Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,304 - INFO - Search Query: wwe - Post Title: What Are The Worst Movies Starring WWE Superstars? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, wouldn, ve, the, worst
+2024-08-31 13:27:13,304 - INFO - Search Query: wwe - Post Title: Paul Heyman to be inducted into the WWE Hall Of Fame - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, be
+2024-08-31 13:27:13,305 - INFO - Search Query: wwe - Post Title: WWE Vault Uploads Previously Unseen WWE tryout matches of Takeshi Morishima - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,305 - INFO - Search Query: wwe - Post Title: WWE releases FULL MATCH - Brock Lesnar vs. Eddie Guerrero - WWE Title Match: WWE No Way Out 2004 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,305 - INFO - Search Query: wwe - Post Title: PWInsider: STEPHANIE VAQUER HAS SIGNED WITH WWE  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,306 - INFO - Search Query: wwe - Post Title: The future WWE champion, ladies and gentlemen - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,306 - INFO - Search Query: wwe - Post Title: Vince McMahon Plots Return to WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,306 - INFO - Search Query: wwe - Post Title: [WWE Backstage Spoilers] It finally happened... - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:27:13,306 - INFO - Search Query: wwe - Post Title: Post WWE King and Queen of the Ring 2024 - Cody Rhodes (c) vs. Logan Paul - WWE Undisputed Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,307 - INFO - Search Query: wwe - Post Title: Fan attacks wrestler Seth Rollins at WWE tonight - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,307 - INFO - Search Query: wwe - Post Title: [Fightful Select] Plans for the WWE Draft - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,307 - INFO - Search Query: wwe - Post Title: Post WWE Night of Champions 2023 Match Discussion: Seth Rollins vs. AJ Styles - WWE World Heavyweight Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,308 - INFO - Search Query: wwe - Post Title: Tama Tonga's first WWE render - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,308 - INFO - Search Query: wwe - Post Title: [WWE] WWE has come to terms on the release of Zelina Vega. We wish her all the best in her future endeavors. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,308 - INFO - Search Query: wwe - Post Title: Post WWE Clash at the Castle: Scotland Match Discussion: Cody Rhodes (c) vs. AJ Styles - I Quit Match for the WWE Undisputed Universal Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,309 - INFO - Search Query: wwe - Post Title: Day 2 of the WWE games community Table : What is the worst game in the WWE game universe? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, wouldn, ve, worst, the
+2024-08-31 13:27:13,309 - INFO - Search Query: wwe - Post Title: WWE debuts 7’3” MONSTER! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,309 - INFO - Search Query: wwe - Post Title: WWE on Twitter: WWE thanks @MATTHARDYBRAND for his contributions to sports-entertainment and the WWE Universe and wishes him the best in his future endeavors. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,310 - INFO - Search Query: wwe - Post Title: We've now had enough time to reflect: Which is/was better, WWE Network or WWE on Peacock? - Sentiment: negative - Explanation: 
+product, recommend, the, service, worst, this, wouldn, better, had, ve
+2024-08-31 13:27:13,310 - INFO - Search Query: wwe - Post Title: Post WWE Summerslam 2024 Match Discussion: Bayley (c) vs. Nia Jax - WWE Women’s Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,310 - INFO - Search Query: wwe - Post Title: Linda McMahon Reveals Vince McMahon's Health Has Rapidly Declined Since Leaving WWE: Report - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,310 - INFO - Search Query: wwe - Post Title: [WWE] bored - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,311 - INFO - Search Query: wwe - Post Title: PWInsider: Lars Sullivan Released from WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,311 - INFO - Search Query: wwe - Post Title: Bobby Lashley's WWE contract is set to expire soon, @FightfulSelect has learned, with @hashtagPWN learning that he's removed from the internal WWE roster. More details for subscribers of @FightfulSelect - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,311 - INFO - Search Query: wwe - Post Title: WON: Rumoured talks of CM Punk and WWE. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,312 - INFO - Search Query: wwe - Post Title: PWINSIDER: "WWE sources have confirmed to PWInsider.com that Cargill is slated to be at the WWE Performance Center in Orlando this coming week" - Sentiment: positive - Explanation: 
+love, product, terrible, service, worst, ve, wouldn, be, the, this
+2024-08-31 13:27:13,312 - INFO - Search Query: wwe - Post Title: Logo for "WWE Raw 30th Anniversary" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,312 - INFO - Search Query: wwe - Post Title: Live WWE WrestleMania XL - Saturday Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,313 - INFO - Search Query: wwe - Post Title: WWE: After #WWERaw went off the air last night, [Spoiler] was overwhelmed with emotion following the immense support from the WWE Universe. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,313 - INFO - Search Query: wwe - Post Title: [Highlight] Trae Young makes his WWE debut - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,313 - INFO - Search Query: wwe - Post Title: WOR: More details on SPOILER signing with WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,314 - INFO - Search Query: wwe - Post Title: BREAKING: WWE promotes /r/SquaredCircle on WWE.com for the Becky Lynch AMA! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,314 - INFO - Search Query: wwe - Post Title: John Cena Announces He Will Retire From WWE After WrestleMania 2025 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,314 - INFO - Search Query: wwe - Post Title: Mustafa Ali Asking for WWE Release - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,315 - INFO - Search Query: wwe - Post Title: WWE 2K23 Roster Official List | WWE 2K23 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,315 - INFO - Search Query: wwe - Post Title: Brock Party (WWE) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,315 - INFO - Search Query: wwe - Post Title: A Familiar Face at the WWE Hall of Fame.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,316 - INFO - Search Query: wwe - Post Title: New LA Knight Shirt on WWE Shop - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,317 - INFO - Search Query: wwe - Post Title: Post WWE Money in the Bank 2024 Match Discussion: Sami Zayn (c) vs. Bron Breakker - WWE Intercontinental Championship - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,317 - INFO - Search Query: wwe - Post Title: Sting's WWE Debut - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,318 - INFO - Search Query: wwe - Post Title: What exactly does WWE have against Bayley?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:13,318 - INFO - Search Query: wwe - Post Title: Dean Ambrose has been moved to the WWE Alumni section on WWE.com - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:13,319 - INFO - Search Query: wwe - Post Title: WWE near deal to be sold to Endeavour. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:27:14,014 - INFO - Search Query: wwe - Post Title: Dude has WWE vibes. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,014 - INFO - Search Query: wwe - Post Title: Journalist Lucas Charpiot was told by a WWE PR member that his question regarding Drew Gulak’s WWE exit was a “dumb thing to ask” - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,015 - INFO - Search Query: wwe - Post Title: Vince McMahon Accused of Sex Trafficking by WWE Staffer He Paid to Keep Quiet - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,015 - INFO - Search Query: wwe - Post Title: No way Dijak is leaving WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,015 - INFO - Search Query: wwe - Post Title: WWE is saddened to learn that Sid Eudy has passed away. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,015 - INFO - Search Query: wwe - Post Title: [[WWE RAW SPOILERS]] The Big Announcement  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,016 - INFO - Search Query: wwe - Post Title: Veer seemingly has left WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,016 - INFO - Search Query: wwe - Post Title: The WWE Moment of the Year is Kofi Kingston winning the WWE Championship at Wrestlemania 35 according to WWE Backstage - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,016 - INFO - Search Query: wwe - Post Title: The final WWE boss - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,016 - INFO - Search Query: wwe - Post Title: Dave Bautista (fka Batista) is looking like the best actor out of the WWE/pro wrestling alumni  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,016 - INFO - Search Query: wwe - Post Title: PWInsider: Renee Young Leaving WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,017 - INFO - Search Query: wwe - Post Title: The Revival have been Released from WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,017 - INFO - Search Query: wwe - Post Title: Who is your WWE crush? I’ll go first. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,017 - INFO - Search Query: wwe - Post Title: Just received a call from WWE Hall of Famer Mike Rotunda who informed us of the tragic news that our WWE family member for life Windham Rotunda - also known as Bray Wyatt - unexpectedly passed earlier today - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,017 - INFO - Search Query: wwe - Post Title: What’s your favorite wwe audience poster? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,018 - INFO - Search Query: wwe - Post Title: Saw this sign on WWE Raw tonight LMAO - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:27:14,018 - INFO - Search Query: wwe - Post Title: Angry WWE girl, then and now - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,018 - INFO - Search Query: wwe - Post Title: WWE - Home edition - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,018 - INFO - Search Query: wwe - Post Title: She should be in the wwe - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, be
+2024-08-31 13:27:14,019 - INFO - Search Query: wwe - Post Title: French WWE crowd - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,019 - INFO - Search Query: wwe - Post Title: WWE Terminates Broadcast Partnership and Shuts Down WWE Network in Russia - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,019 - INFO - Search Query: wwe - Post Title: Skateboarding + WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,019 - INFO - Search Query: wwe - Post Title: Vince McMahon officially back on the board of WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:27:14,019 - INFO - Search Query: wwe - Post Title: Fuck this lady in particular with WWE move  - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:27:14,020 - INFO - Search Query: wwe - Post Title: SRS: "Per internal WWE live events reports, last night's WWE Smackdown at the Mohegan Sun in Connecticut was said to be the highest-grossing event in that market in WWE history." - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, be, the
+2024-08-31 13:27:14,020 - INFO - Search Query: wwe - Post Title: Emma Released From WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,020 - INFO - Search Query: wwe - Post Title: WWE desperately need better music for their wrestlers. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, better
+2024-08-31 13:27:14,020 - INFO - Search Query: wwe - Post Title: What Should be their Tag Team Name in WWE.. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:27:14,021 - INFO - Search Query: wwe - Post Title: Fightful: Ric Flair granted WWE release - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,021 - INFO - Search Query: wwe - Post Title: holy shit one of the sickest wwe posters I've seen  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, wouldn, worst, the, ve
+2024-08-31 13:27:14,021 - INFO - Search Query: wwe - Post Title: WWE make a wish child wanted to win in the WWE and they let him do it - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, it
+2024-08-31 13:27:14,021 - INFO - Search Query: wwe - Post Title: AEW Star and Former WWE Legend, Jeff Hardy, Arrested last night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,022 - INFO - Search Query: wwe - Post Title: Wwe - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,022 - INFO - Search Query: wwe - Post Title: ELI5: how do WWE wrestlers “fake” fall impacts? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,022 - INFO - Search Query: wwe - Post Title: What WWE moment had you like this: - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, had, this
+2024-08-31 13:27:14,022 - INFO - Search Query: wwe - Post Title: WWE files to trademark "Caesar Sikoa" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,023 - INFO - Search Query: wwe - Post Title: WWE WrestleMania XL Kickoff Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,023 - INFO - Search Query: wwe - Post Title: Post WWE WrestleMania XL - Sunday Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,023 - INFO - Search Query: wwe - Post Title: WWE edition - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,023 - INFO - Search Query: wwe - Post Title: (Fightful) Toni Storm released by WWE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,024 - INFO - Search Query: wwe - Post Title: Triple H Says WWE Won't Have Censor Issues With Netflix | Fightful News - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:27:14,027 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:14] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:27:23,630 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:23] "GET /search_results HTTP/1.1" 200 -
+2024-08-31 13:27:23,798 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:27:24,046 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:24] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:27:24,420 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:24] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:27:24,435 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:24] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:27:30,034 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:30] "GET /view_details/wwe HTTP/1.1" 200 -
+2024-08-31 13:27:30,187 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:27:30,378 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:30] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:27:30,753 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:30] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:27:30,758 - INFO - 127.0.0.1 - - [31/Aug/2024 13:27:30] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:40:30,835 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:30] "GET /view_details/wwe HTTP/1.1" 200 -
+2024-08-31 13:40:31,004 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:40:31,301 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:31] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:40:31,722 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:31] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:40:32,050 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:32] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:40:40,843 - INFO - 127.0.0.1 - - [31/Aug/2024 13:40:40] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-08-31 13:40:41,044 - INFO - Search Query: yellow
+2024-08-31 13:40:57,097 - WARNING - Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)")) status: GET https://oauth.reddit.com/r/all/search/
+2024-08-31 13:41:00,722 - INFO - Search Query: yellow - Post Title: How do you beat Yellow Wind Sage? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,722 - INFO - Search Query: yellow - Post Title: Yellow Wind Sage - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,723 - INFO - Search Query: yellow - Post Title: Yellow brow is so frustrating  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,723 - INFO - Search Query: yellow - Post Title: The yellow dress video - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,723 - INFO - Search Query: yellow - Post Title: Yellow Wind Sage - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,723 - INFO - Search Query: yellow - Post Title: Any tips on yellow loong? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,724 - INFO - Search Query: yellow - Post Title: Yellow Wind Sage Help - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,724 - INFO - Search Query: yellow - Post Title: Any tips for Yellow Loong? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,724 - INFO - Search Query: yellow - Post Title: For anyone having trouble with the Yellow Loong boss - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,724 - INFO - Search Query: yellow - Post Title: Yellow Loong with NO DAMAGE, this is true Kungfu Cinema - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:00,725 - INFO - Search Query: yellow - Post Title: My rain is yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,725 - INFO - Search Query: yellow - Post Title: Koné yellow card vs Argentina. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,726 - INFO - Search Query: yellow - Post Title: Joelinton yellow card vs Bournemouth - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,726 - INFO - Search Query: yellow - Post Title: please help!! my cat has yellow ears, paws, nose and inside of his mouth is yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,727 - INFO - Search Query: yellow - Post Title: WHY IS IT YELLOW? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:00,727 - INFO - Search Query: yellow - Post Title: Yellow Wendy's - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,727 - INFO - Search Query: yellow - Post Title: James Milner foul on a yellow, no second yellow given. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,728 - INFO - Search Query: yellow - Post Title: My Ferrari would be yellow \U0001f62d - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:41:00,728 - INFO - Search Query: yellow - Post Title: yellow… - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,728 - INFO - Search Query: yellow - Post Title: Why is my shadow yellow? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,729 - INFO - Search Query: yellow - Post Title: Declan Rice (Arsenal) second yellow card against Brighton 48' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,729 - INFO - Search Query: yellow - Post Title: Removing 200 years of yellowing varnish - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,729 - INFO - Search Query: yellow - Post Title: Konate on a yellow card pulling back Beto with no yellow given. Klopp subbed him off minutes later. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,729 - INFO - Search Query: yellow - Post Title: Yellow?Red? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,730 - INFO - Search Query: yellow - Post Title: A goofy yellow creature - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,730 - INFO - Search Query: yellow - Post Title: This flawless yellow onion - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:00,730 - INFO - Search Query: yellow - Post Title: [USA] Passing double solid yellow lines is illegal - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,730 - INFO - Search Query: yellow - Post Title: Black or Yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,731 - INFO - Search Query: yellow - Post Title: Chasing a car over double solid yellow lines - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,731 - INFO - Search Query: yellow - Post Title: The Thin Yellow Line - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,731 - INFO - Search Query: yellow - Post Title: Make her skin less yellow? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,731 - INFO - Search Query: yellow - Post Title: To give a yellow card. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,731 - INFO - Search Query: yellow - Post Title: Yellow blue red - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,732 - INFO - Search Query: yellow - Post Title: The Soaring Yellow Rose - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,732 - INFO - Search Query: yellow - Post Title: Yellow Baby! Name suggestions? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,732 - INFO - Search Query: yellow - Post Title: Yellow Guy Rule - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,732 - INFO - Search Query: yellow - Post Title: What is the yellow, blue yellow flag? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,733 - INFO - Search Query: yellow - Post Title: Jeremy Menez (Bari) second yellow card for clapping at the referee 6 seconds after receiving his first yellow card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,733 - INFO - Search Query: yellow - Post Title: IShowSpeed foul on Kaka. Yellow card given  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,733 - INFO - Search Query: yellow - Post Title: No yellow in my egg - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,733 - INFO - Search Query: yellow - Post Title: Bellingham foul (Yellow card) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,734 - INFO - Search Query: yellow - Post Title: I'll never top this. The yellow sticker jackpot. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:41:00,734 - INFO - Search Query: yellow - Post Title: Yellow Stripey Things \U0001f41d - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,734 - INFO - Search Query: yellow - Post Title: Gatorades Yellow coloring being manufactured - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,734 - INFO - Search Query: yellow - Post Title: Does your void have yellow or green eyes? Miss Roz has very yellow eyes \U0001f440 \U0001f49b  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,735 - INFO - Search Query: yellow - Post Title: Flashing yellow and a stop sign  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,735 - INFO - Search Query: yellow - Post Title: Why the insistence on yellow paint? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,735 - INFO - Search Query: yellow - Post Title: Yellow:) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,735 - INFO - Search Query: yellow - Post Title: Removing 200 years of yellowing varnish - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,735 - INFO - Search Query: yellow - Post Title: Satisfying way to kill yellow jackets - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,736 - INFO - Search Query: yellow - Post Title: Cat played with a yellow jacket. And lost. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,736 - INFO - Search Query: yellow - Post Title: To cross a solid double yellow line - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,736 - INFO - Search Query: yellow - Post Title: Ederson yellow card vs. Crystal Palace - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,736 - INFO - Search Query: yellow - Post Title: Yellow. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,737 - INFO - Search Query: yellow - Post Title: Poor yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,737 - INFO - Search Query: yellow - Post Title: Name a character who is yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,737 - INFO - Search Query: yellow - Post Title: Undertale Yellow OST Drama Summary - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,737 - INFO - Search Query: yellow - Post Title: Vitinha gives Michael Oliver a yellow card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,737 - INFO - Search Query: yellow - Post Title: Yellow jersey guy - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,738 - INFO - Search Query: yellow - Post Title: Only Yellow Labs can be seeing eye dogs - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:41:00,738 - INFO - Search Query: yellow - Post Title: We have red, yellow, and blue, so why not green?? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,738 - INFO - Search Query: yellow - Post Title: Yellow ball, corner pocket. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,738 - INFO - Search Query: yellow - Post Title: Do you think yellow lightsabers are cool? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,739 - INFO - Search Query: yellow - Post Title: I HATE PAINTING YELLOW!!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,739 - INFO - Search Query: yellow - Post Title: Man gets a yellow card. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,739 - INFO - Search Query: yellow - Post Title: 24 hours after being stung by a yellow jacket on my middle upper knuckle - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,739 - INFO - Search Query: yellow - Post Title: LPT: Wear Yellow to the Zoo - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,740 - INFO - Search Query: yellow - Post Title: yellow top y/n? \U0001f495 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,740 - INFO - Search Query: yellow - Post Title: Don't use yellow polish directly on your nails.. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,740 - INFO - Search Query: yellow - Post Title: Felipe Melo, after his 23rd yellow card this year: "I wanted to be like Sergio Ramos, who gets yellow card, yellow card, yellow card, yellow card and then wins the Champions League, the World Cup" - Sentiment: negative - Explanation: 
+love, product, terrible, service, worst, ve, wouldn, be, this, the
+2024-08-31 13:41:00,740 - INFO - Search Query: yellow - Post Title: Yellow fought for his life!! \U0001f602 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,741 - INFO - Search Query: yellow - Post Title: American Yellow Warbler - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,741 - INFO - Search Query: yellow - Post Title: Only Yellow Labs can be seeing eye dogs - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:41:00,741 - INFO - Search Query: yellow - Post Title: Please don't rush through yellow light. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,741 - INFO - Search Query: yellow - Post Title: Petah? Why do Europeans hate yellow cars? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,742 - INFO - Search Query: yellow - Post Title: Martinez yellow card vs Lille in the penalty shootout - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,742 - INFO - Search Query: yellow - Post Title: Hot Take: Wolverine looks better in yellow and brown instead of yellow and blue.  - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, better
+2024-08-31 13:41:00,742 - INFO - Search Query: yellow - Post Title: Rasengan is actually… yellow? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,742 - INFO - Search Query: yellow - Post Title: Saturn V Rocket - Yellowing - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,742 - INFO - Search Query: yellow - Post Title: WCGW Crossing a yellow line - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,743 - INFO - Search Query: yellow - Post Title: Cool yellow text - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,743 - INFO - Search Query: yellow - Post Title: Yellow jackets sucked into a vacuum - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,743 - INFO - Search Query: yellow - Post Title: My yellow hibiscus surprisingly made a 50/50 pink & yellow flower. Looks stunning! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,743 - INFO - Search Query: yellow - Post Title: This guy caught a yellow catfish - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:00,744 - INFO - Search Query: yellow - Post Title: This immune cell soldier (yellow) fights a highly aggressive cancer cell (magenta).  - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:00,744 - INFO - Search Query: yellow - Post Title: Joelinton foul on Liverpool counter (no yellow given) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,744 - INFO - Search Query: yellow - Post Title: Little yellow guys - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,744 - INFO - Search Query: yellow - Post Title: Screw yellow dude, all my homies hate yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,745 - INFO - Search Query: yellow - Post Title: Kroos Yellow Card vs Elche - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,745 - INFO - Search Query: yellow - Post Title: Yellow card for Canada GK for hiding Uruguay GK's water bottle  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,745 - INFO - Search Query: yellow - Post Title: my yellow arm isn't looking so yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,745 - INFO - Search Query: yellow - Post Title: Is this orange or yellow? - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:00,746 - INFO - Search Query: yellow - Post Title: American Yellow Warbler. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,746 - INFO - Search Query: yellow - Post Title: A machine to remove yellow skittles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,746 - INFO - Search Query: yellow - Post Title: I'm not yellow, you're yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,746 - INFO - Search Query: yellow - Post Title: You guys fw the yellow lenses? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,747 - INFO - Search Query: yellow - Post Title: Ronaldo yellow card vs Slovakia 61' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,747 - INFO - Search Query: yellow - Post Title: yellow [oc] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:00,747 - INFO - Search Query: yellow - Post Title: My dad painted the light yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:00,747 - INFO - Search Query: yellow - Post Title: Yellow shiny god has been kind to me! Which is your fav yellow shiny? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,387 - INFO - Search Query: yellow - Post Title: What color swimsuit? Keep it yellow? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:02,387 - INFO - Search Query: yellow - Post Title: What is this yellow car? - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,387 - INFO - Search Query: yellow - Post Title: Who was the first non-yellow minfigure? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,387 - INFO - Search Query: yellow - Post Title: To do a good deed by freeing yellow jackets - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, good
+2024-08-31 13:41:02,387 - INFO - Search Query: yellow - Post Title: Mateo Kovacic yellow card against Arsenal 30' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,388 - INFO - Search Query: yellow - Post Title: no yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,388 - INFO - Search Query: yellow - Post Title: TIL - Raccoons and skunks will literally sniff out a yellow jacket nest at night and dig it up to eat the yellow jackets. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, it
+2024-08-31 13:41:02,389 - INFO - Search Query: yellow - Post Title: Curtis Jones skill and no yellow card for Ben White - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,389 - INFO - Search Query: yellow - Post Title: Yellow card for Jonathan Tah, for this foul. He is now suspended for Germany's next knockout match due to an accumulation of yellow cards. - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,389 - INFO - Search Query: yellow - Post Title: Is the sky of Venus yellow, or are those just yellow clouds? If just clouds, what color is the sky of Venus? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,389 - INFO - Search Query: yellow - Post Title: Gamers don’t like yellow paint it seems - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:02,389 - INFO - Search Query: yellow - Post Title: Man in yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,390 - INFO - Search Query: yellow - Post Title: My mom grew a giant yellow cucumber - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,390 - INFO - Search Query: yellow - Post Title: India is yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,390 - INFO - Search Query: yellow - Post Title: Antony yellow card against Manchester City 90+2' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,390 - INFO - Search Query: yellow - Post Title: Yeah, uh-huh, you know what it is Black and yellow Black and yellow Black and yellow - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:02,391 - INFO - Search Query: yellow - Post Title: Paint the town yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,391 - INFO - Search Query: yellow - Post Title: What do the yellow lines mean? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,391 - INFO - Search Query: yellow - Post Title: Is this green or yellow - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,391 - INFO - Search Query: yellow - Post Title: Vinicius Junior yellow card against RB Leipzig 52' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,391 - INFO - Search Query: yellow - Post Title: What is the Coles “Yellow” donut flavour? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,392 - INFO - Search Query: yellow - Post Title: Yellow Flag sphere - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,392 - INFO - Search Query: yellow - Post Title: Yellow still sus - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,392 - INFO - Search Query: yellow - Post Title: The circle is yellow now - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,393 - INFO - Search Query: yellow - Post Title: “I personally wrote the first national maps, directions, yellow pages and white pages” \U0001fae1 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,393 - INFO - Search Query: yellow - Post Title: Peekaboo with a Yellow Tang - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,393 - INFO - Search Query: yellow - Post Title: Fuck this yellow twat - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,393 - INFO - Search Query: yellow - Post Title: To do a good deed by freeing yellow jackets - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, good
+2024-08-31 13:41:02,393 - INFO - Search Query: yellow - Post Title: Joyas first yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,394 - INFO - Search Query: yellow - Post Title: Dani Carvajal second yellow card against Germany 120+5' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,394 - INFO - Search Query: yellow - Post Title: Only 2 percent of Australia’s population lives in the yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,394 - INFO - Search Query: yellow - Post Title: I THOUGHT THE SUN WAS ROUND AND YELLOW??? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,394 - INFO - Search Query: yellow - Post Title: Yellow card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,395 - INFO - Search Query: yellow - Post Title: Yellow ladders are historical accurate - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,395 - INFO - Search Query: yellow - Post Title: Can run to yellow loop the nerf hammer? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,395 - INFO - Search Query: yellow - Post Title: Why has chica gone from Yellow to White ? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,395 - INFO - Search Query: yellow - Post Title: Seen at my school, not a good idea to use yellow on yellow... - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, good
+2024-08-31 13:41:02,396 - INFO - Search Query: yellow - Post Title: Czechia vs Turkey finishes with 18 yellow cards & 2 red cards - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,396 - INFO - Search Query: yellow - Post Title: Green Anby and Yellow Anby's shinanigans... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,396 - INFO - Search Query: yellow - Post Title: Mbappe yellow for time wasting - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,396 - INFO - Search Query: yellow - Post Title: Fallon d'Floor nominee: Kai Havertz (while already on a yellow) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,396 - INFO - Search Query: yellow - Post Title: This Yellow Ratsnake was enjoying the taste of knuckles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:41:02,397 - INFO - Search Query: yellow - Post Title: Yellow Ratsnake was enjoying the taste of knuckles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,397 - INFO - Search Query: yellow - Post Title: Malo Gusto challenge on Willian 38' (yellow card) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,397 - INFO - Search Query: yellow - Post Title: Fuck you and your bright yellow jacket.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,397 - INFO - Search Query: yellow - Post Title: Harry Maguire foul vs Fulham 35’ (yellow card given) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,397 - INFO - Search Query: yellow - Post Title: Saka yellow clear angle. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,398 - INFO - Search Query: yellow - Post Title: timelapse of yellow gabion mushrooms - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,398 - INFO - Search Query: yellow - Post Title: What are those yellow fields in London? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,398 - INFO - Search Query: yellow - Post Title: Keep your eye on the yellow cyclist!  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,398 - INFO - Search Query: yellow - Post Title: Why is yellow part of the lgbtq flag in Israel more extended?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,399 - INFO - Search Query: yellow - Post Title: yellow blue red - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,399 - INFO - Search Query: yellow - Post Title: Putting a jar on a yellow jacket nest - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,399 - INFO - Search Query: yellow - Post Title: Yellow text on yellow background - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,399 - INFO - Search Query: yellow - Post Title: Got this from a treasure bag yellow....  - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,399 - INFO - Search Query: yellow - Post Title: My yellow pepper came with a green pepper inside. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,400 - INFO - Search Query: yellow - Post Title: There is no yellow paperclip and now my son is up over an hour past his bed time  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,400 - INFO - Search Query: yellow - Post Title: The quickest yellow card ever? - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, ever
+2024-08-31 13:41:02,400 - INFO - Search Query: yellow - Post Title: How are we feeling about yellow on yellow?\U0001f914 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,400 - INFO - Search Query: yellow - Post Title: Big yellow button please - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,401 - INFO - Search Query: yellow - Post Title: Wtf, SCP foundation is yellow?? \U0001f633 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,401 - INFO - Search Query: yellow - Post Title: My packed lunch for tomorrow is unintentionally all yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,401 - INFO - Search Query: yellow - Post Title: Can my yellow boy be an honorary orange? - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:41:02,401 - INFO - Search Query: yellow - Post Title: Sorry, yellow one - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,402 - INFO - Search Query: yellow - Post Title: Yellow pound cake is my favorite! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,402 - INFO - Search Query: yellow - Post Title: Yellow Ranger, Black Ranger - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,402 - INFO - Search Query: yellow - Post Title: Those little yellow things.. they scare me - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,403 - INFO - Search Query: yellow - Post Title: Is it just me or is this thing getting yellower? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-08-31 13:41:02,403 - INFO - Search Query: yellow - Post Title: Double Yellow lines and break check. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,403 - INFO - Search Query: yellow - Post Title: Let's go home, you hairy yellow girl - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,403 - INFO - Search Query: yellow - Post Title: Arteta appeals to the referee for a yellow card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,404 - INFO - Search Query: yellow - Post Title: TOBY FOX JUST CONFIRMED THAT UNDERTALE YELLOW IS CANON!!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,404 - INFO - Search Query: yellow - Post Title: Chasing a car over double solid yellow lines - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,404 - INFO - Search Query: yellow - Post Title: Um, this is Minnesota sir… (yellow text) - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,404 - INFO - Search Query: yellow - Post Title: Why Is Evil Morty’s Portal Fluid Yellow? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,404 - INFO - Search Query: yellow - Post Title: Yellow ship, yellow armour, yellow planet, yellow box - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,405 - INFO - Search Query: yellow - Post Title: "Give him a yellow card." - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,405 - INFO - Search Query: yellow - Post Title: Extremely rare yellow turtle spotted in India - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,405 - INFO - Search Query: yellow - Post Title: It was all yellow - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:02,405 - INFO - Search Query: yellow - Post Title: Mixing blue, yellow, red and white to create 15 new colors - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,406 - INFO - Search Query: yellow - Post Title: Why Do I Need to See the States in Yellow? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,406 - INFO - Search Query: yellow - Post Title: What Is the yellow logo - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:02,406 - INFO - Search Query: yellow - Post Title: All this over a yellow ladder - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:41:02,406 - INFO - Search Query: yellow - Post Title: Double yellow line? who need it? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:41:02,406 - INFO - Search Query: yellow - Post Title: Yellow Card, but before you go. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-08-31 13:41:02,407 - INFO - Search Query: yellow - Post Title: Yellow is officially dead. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,407 - INFO - Search Query: yellow - Post Title: Blue, red or yellow? It is the yellow for me  - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, it
+2024-08-31 13:41:02,407 - INFO - Search Query: yellow - Post Title: Yellow? Yes - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,407 - INFO - Search Query: yellow - Post Title: My fake plant turned yellow and died when left outside.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,408 - INFO - Search Query: yellow - Post Title: Yellow cards before Quarter-finals - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,408 - INFO - Search Query: yellow - Post Title: Trying to look good in yellow. - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, good
+2024-08-31 13:41:02,408 - INFO - Search Query: yellow - Post Title: A backyard full of yellow flowers ? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,408 - INFO - Search Query: yellow - Post Title: Virgil van Dijk yellow card vs Fulham - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,408 - INFO - Search Query: yellow - Post Title: Yellow Card strikes back - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,409 - INFO - Search Query: yellow - Post Title: which color do you prefer ? Blue or yellow ?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,409 - INFO - Search Query: yellow - Post Title: 2020s Yellow Fellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,409 - INFO - Search Query: yellow - Post Title: Those damned yellow poles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,409 - INFO - Search Query: yellow - Post Title: [Homemade] "Cheeseburgers" yellow cake buns, strawberry tomatoes, coconut (dyed green) lettuce, yellow buttercream cheese, brownie burgers - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,410 - INFO - Search Query: yellow - Post Title: [Flashscore] With today's yellow card, Manchester United's Antony now has more yellow cards (7) than goal contributions (6) in his Premier League career - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:02,410 - INFO - Search Query: yellow - Post Title: Yellow dresses in movies - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,013 - INFO - Search Query: yellow - Post Title: Israel envoy wears yellow star at UN, drawing criticism from Holocaust memorial centre - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,013 - INFO - Search Query: yellow - Post Title:  Yellow Springs home raided for marijuana - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,014 - INFO - Search Query: yellow - Post Title: Follow The Yellow Brick Road - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,014 - INFO - Search Query: yellow - Post Title: Is this too small or too yellow to be poisonous? - Sentiment: positive - Explanation: 
+love, product, terrible, service, the, ve, wouldn, worst, be, this
+2024-08-31 13:41:03,015 - INFO - Search Query: yellow - Post Title: Yves Bissouma second yellow card vs Luton 45+4' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,015 - INFO - Search Query: yellow - Post Title: Yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,016 - INFO - Search Query: yellow - Post Title: King in Yellow - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,016 - INFO - Search Query: yellow - Post Title: I am not wearing yellow socks today - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,017 - INFO - Search Query: yellow - Post Title: The King in Yellow?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,017 - INFO - Search Query: yellow - Post Title: Yellow Jello On A Blue Board - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,017 - INFO - Search Query: yellow - Post Title: A yellow pic with yellow Bidoof! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,018 - INFO - Search Query: yellow - Post Title: Black/Blue and Yellow/White dress illusion. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,018 - INFO - Search Query: yellow - Post Title: \U0001f525 Yellow mountain, China. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,019 - INFO - Search Query: yellow - Post Title: Optical illusion. There is no yellow in this image (cover all but a few of the 'yellow' lines to prove this). Your brain expects yellow and fill in the gaps. - Sentiment: positive - Explanation: 
+love, product, terrible, service, worst, ve, wouldn, but, the, this
+2024-08-31 13:41:03,019 - INFO - Search Query: yellow - Post Title: Why are non Americans always surprised by seeing yellow school buses in the US? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,020 - INFO - Search Query: yellow - Post Title: Yellow card for Cristiano Ronaldo 30' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,020 - INFO - Search Query: yellow - Post Title: Why didn't Yellow Rabbit hurt Oswald's mother? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,021 - INFO - Search Query: yellow - Post Title: The Thin Yellow Line - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,021 - INFO - Search Query: yellow - Post Title: yellow beast - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,022 - INFO - Search Query: yellow - Post Title: And you get a yellow card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,022 - INFO - Search Query: yellow - Post Title: My sims baby is yellow ????? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,022 - INFO - Search Query: yellow - Post Title: Yellow marks the spot - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,023 - INFO - Search Query: yellow - Post Title: Another reason why Minato is nicknamed the Yellow Flash - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,023 - INFO - Search Query: yellow - Post Title: Cancelo yellow card for dive 84”. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,024 - INFO - Search Query: yellow - Post Title: Kitty doesn’t like curved yellow fruit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,024 - INFO - Search Query: yellow - Post Title: Yellow Gameboy With Pokemon Yellow [Cycles] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,025 - INFO - Search Query: yellow - Post Title: A backyard full of yellow flowers. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,025 - INFO - Search Query: yellow - Post Title: the tired "she only wearing yellow" comments - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,025 - INFO - Search Query: yellow - Post Title: help! my kitchen tile is yellow. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,025 - INFO - Search Query: yellow - Post Title: Yellow Guy Rule - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,026 - INFO - Search Query: yellow - Post Title: Toni Kroos yellow card vs. Sevilla - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,026 - INFO - Search Query: yellow - Post Title: [DaleJohnsonESPN] Yellow cards reset at the start of the penalty shootout. So that's Emiliano Martinez's second yellow card, but only counts as one. - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, but, the
+2024-08-31 13:41:03,026 - INFO - Search Query: yellow - Post Title: Yellow and Madness - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,026 - INFO - Search Query: yellow - Post Title: Wheel of Queens (YELLOW) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,027 - INFO - Search Query: yellow - Post Title: The golf club owners vs the yellow shirts - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:41:03,027 - INFO - Search Query: yellow - Post Title: Yellow Wendy's - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,027 - INFO - Search Query: yellow - Post Title: Udogie second yellow card against Chelsea 55' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:41:03,029 - INFO - 127.0.0.1 - - [31/Aug/2024 13:41:03] "POST /api/search HTTP/1.1" 200 -
