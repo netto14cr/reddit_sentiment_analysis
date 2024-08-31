@@ -14978,3 +14978,7 @@ love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-31 13:41:03,027 - INFO - Search Query: yellow - Post Title: Udogie second yellow card against Chelsea 55' - Sentiment: negative - Explanation: 
 love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-31 13:41:03,029 - INFO - 127.0.0.1 - - [31/Aug/2024 13:41:03] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:46:22,100 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\train_model.py', reloading
+2024-08-31 13:46:22,849 - INFO -  * Restarting with stat
+2024-08-31 13:46:26,182 - WARNING -  * Debugger is active!
+2024-08-31 13:46:26,194 - INFO -  * Debugger PIN: 638-882-250

@@ -1,9 +1,9 @@
 @echo off
-REM Cambia al directorio donde está el script
-cd /d "C:\ruta\al\directorio\del\script"
+REM Change to the directory where the script is located
+cd /d "C:\path\to\script\directory"
 
-REM Ejecuta el script de Python
+REM Run the Python script
 python update_ngrok_env.py
 
-REM Pausa para ver los resultados en la ventana de comandos
+REM Pause to view the results in the command window
 pause

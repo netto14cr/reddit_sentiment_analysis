@@ -1,14 +1,14 @@
 @echo off
-REM Verifica si la carpeta node_modules existe
+REM Check if the node_modules folder exists
 if exist node_modules (
-    echo Dependencias ya instaladas.
+    echo Dependencies already installed.
 ) else (
-    echo Instalando dependencias...
+    echo Installing dependencies...
     npm install
 )
 
-REM Inicia el servidor de desarrollo
+REM Start the development server
 npm start
 
-REM Mantiene la ventana abierta para ver los logs (opcional)
+REM Keep the window open to view logs (optional)
 pause
