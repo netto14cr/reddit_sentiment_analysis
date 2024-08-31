@@ -128,7 +128,14 @@ Create a .env file in the sentiment_analysis_frontend directory with the followi
 ### Image #13
 ![Image #13](screenshots/img13.png)
 
+### Image #14
+![Image #14](screenshots/img14.png)
 
+### Image #15
+![Image #15](screenshots/img15.png)
+
+### Image #16
+![Image #16](screenshots/img16.png)
 
 ## 5. LICENSE:
 This project is licensed under the MIT License for educational use only. For professional or commercial use, please obtain proper licensing. See the LICENSE file for more details.

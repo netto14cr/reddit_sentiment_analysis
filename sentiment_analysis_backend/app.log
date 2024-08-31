@@ -14982,3 +14982,1456 @@ love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-31 13:46:22,849 - INFO -  * Restarting with stat
 2024-08-31 13:46:26,182 - WARNING -  * Debugger is active!
 2024-08-31 13:46:26,194 - INFO -  * Debugger PIN: 638-882-250
+2024-08-31 13:48:19,726 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2024-08-31 13:48:19,726 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-31 13:48:19,727 - INFO -  * Restarting with stat
+2024-08-31 13:48:21,627 - WARNING -  * Debugger is active!
+2024-08-31 13:48:21,638 - INFO -  * Debugger PIN: 638-882-250
+2024-08-31 13:48:22,511 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:22] "GET / HTTP/1.1" 200 -
+2024-08-31 13:48:22,622 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:22] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:48:22,756 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:22] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,082 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-31 13:48:23,083 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,334 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,413 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-144-144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,665 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-72-72.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,665 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/ios/100.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,666 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-192-192.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,667 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-48-48.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,668 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-512-512.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,727 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/android/android-launchericon-96-96.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,977 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:23,991 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:23] "[36mGET /static/pwa/os/ios/1024.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,004 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/120.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,008 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/114.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,009 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/128.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,046 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/152.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,297 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/16.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,315 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/192.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,319 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/20.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,322 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/167.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,328 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/256.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,359 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/180.png HTTP/1.1[0m" 304 -
+2024-08-31 13:48:24,620 - INFO - 127.0.0.1 - - [31/Aug/2024 13:48:24] "[36mGET /static/pwa/os/ios/29.png HTTP/1.1[0m" 304 -
+2024-08-31 13:49:48,602 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:48] "GET /search_results HTTP/1.1" 200 -
+2024-08-31 13:49:48,630 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:49:48,814 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:48] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:49:49,161 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:49] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:49:49,472 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:49] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:49:55,214 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:55] "GET /view_details/Manuel%20antonio HTTP/1.1" 200 -
+2024-08-31 13:49:55,479 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:49:55,556 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:55] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:49:55,623 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:55] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:49:55,943 - INFO - 127.0.0.1 - - [31/Aug/2024 13:49:55] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:50:19,215 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:19] "GET /search_results HTTP/1.1" 200 -
+2024-08-31 13:50:19,489 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:50:19,553 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:19] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:50:19,895 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:19] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:50:20,206 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:20] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:50:24,625 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:24] "GET /view_details/Tortuguero HTTP/1.1" 200 -
+2024-08-31 13:50:24,900 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:24] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:50:24,970 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:24] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:50:25,070 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:25] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:50:25,387 - INFO - 127.0.0.1 - - [31/Aug/2024 13:50:25] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:51:41,964 - INFO - 127.0.0.1 - - [31/Aug/2024 13:51:41] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-08-31 13:51:42,171 - INFO - Search Query: reddit
+2024-08-31 13:51:44,797 - INFO - Search Query: reddit - Post Title: Reddit being reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,798 - INFO - Search Query: reddit - Post Title: How safe is Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,798 - INFO - Search Query: reddit - Post Title: Reddit scares me sometimes  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,798 - INFO - Search Query: reddit - Post Title: Is stock Reddit app that bad for you? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,800 - INFO - Search Query: reddit - Post Title: I use the official reddit app without ads thanks to the API fiasco. Should I be using something else? - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, be, the
+2024-08-31 13:51:44,801 - INFO - Search Query: reddit - Post Title: Addressing the community about changes to our API - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:44,801 - INFO - Search Query: reddit - Post Title: [REDDIT EXCLUSIVE] Carlos Yulo answers questions from Reddit!  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,801 - INFO - Search Query: reddit - Post Title: Reddit Cares - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,801 - INFO - Search Query: reddit - Post Title: I will not short reddit. I will not short reddit. I will not short reddit. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,802 - INFO - Search Query: reddit - Post Title: Conservative Reddit is gold  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,802 - INFO - Search Query: reddit - Post Title: Just reddit being reddit I guess.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,802 - INFO - Search Query: reddit - Post Title: Time to torrent Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,802 - INFO - Search Query: reddit - Post Title: Found on Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,803 - INFO - Search Query: reddit - Post Title: Reddit be like - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:51:44,803 - INFO - Search Query: reddit - Post Title: reddit moment  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,803 - INFO - Search Query: reddit - Post Title: Reddit 2 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,803 - INFO - Search Query: reddit - Post Title: WTF REDDIT!? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,803 - INFO - Search Query: reddit - Post Title: Reddit CEO Triples Down, Insults Protesters, Whines About Not Making Enough Money From Reddit Users - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,804 - INFO - Search Query: reddit - Post Title: reddit accent - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,804 - INFO - Search Query: reddit - Post Title: RedditRedditRedditRedditRedditRedditRedditReddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,804 - INFO - Search Query: reddit - Post Title: Now that Reddit are killing 3rd party apps on July 1st what are great alternatives to Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,804 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,805 - INFO - Search Query: reddit - Post Title: Reddit's China based subreddits - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,805 - INFO - Search Query: reddit - Post Title: RIP Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,805 - INFO - Search Query: reddit - Post Title: Reddit therapy - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,805 - INFO - Search Query: reddit - Post Title: LET'S SEE WHAT YA GOT REDDIT. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,805 - INFO - Search Query: reddit - Post Title: Some subreddits could be paywalled, hints Reddit CEO - Sentiment: neutral - Explanation: 
+love, product, terrible, the, ve, this, worst, wouldn, could, be
+2024-08-31 13:51:44,806 - INFO - Search Query: reddit - Post Title: Reddit introduces Reddit coal. If you gift Reddit Coal to an account, it’s banned for a week. How does Reddit change? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:44,807 - INFO - Search Query: reddit - Post Title: Thank you Reddit!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,807 - INFO - Search Query: reddit - Post Title: Reddit, Kumquat. Kumquat, Reddit. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,807 - INFO - Search Query: reddit - Post Title: Reddit. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,807 - INFO - Search Query: reddit - Post Title: We did it Reddit? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:44,808 - INFO - Search Query: reddit - Post Title: Ok Reddit, please help!!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,808 - INFO - Search Query: reddit - Post Title: Reddit [Rulequest] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,808 - INFO - Search Query: reddit - Post Title: Reddit CEO warns employees not to wear Reddit swag in public as users revolt - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,808 - INFO - Search Query: reddit - Post Title: Couple meets ON REDDIT  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,808 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,809 - INFO - Search Query: reddit - Post Title: Reddit is Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,809 - INFO - Search Query: reddit - Post Title: REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS REDDIT COINS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,809 - INFO - Search Query: reddit - Post Title: Follow Reddit's Content Policy - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,809 - INFO - Search Query: reddit - Post Title: Reddit. Upvote this picture so that it comes up when people searches up Reddit - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-08-31 13:51:44,810 - INFO - Search Query: reddit - Post Title: Alright Reddit, am I fucked? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,810 - INFO - Search Query: reddit - Post Title: Average female reddit experience - Sentiment: negative - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, experience
+2024-08-31 13:51:44,810 - INFO - Search Query: reddit - Post Title: Why reddit? Why? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,810 - INFO - Search Query: reddit - Post Title: Fidelity cuts Reddit valuation again - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,810 - INFO - Search Query: reddit - Post Title: Did Reddit mess up again  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,811 - INFO - Search Query: reddit - Post Title: Former Kitchen Nightmares guest fumes over Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,811 - INFO - Search Query: reddit - Post Title: Well Reddit, I tried - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,811 - INFO - Search Query: reddit - Post Title: Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,811 - INFO - Search Query: reddit - Post Title: How much Reddit is too much Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,811 - INFO - Search Query: reddit - Post Title: Reddit Recap kinda sucks, right? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,812 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,812 - INFO - Search Query: reddit - Post Title: Reddit rule - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,812 - INFO - Search Query: reddit - Post Title: Reddit Bros - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,813 - INFO - Search Query: reddit - Post Title: Back into the closet for queer teachers? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:44,813 - INFO - Search Query: reddit - Post Title: This will kill Reddit. - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:51:44,813 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,813 - INFO - Search Query: reddit - Post Title: REDDIT TO START CAHRGING - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,814 - INFO - Search Query: reddit - Post Title: Robinhood---Reddit---Robinhood---Reddit---Work---Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,814 - INFO - Search Query: reddit - Post Title: Ew, reddit. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,814 - INFO - Search Query: reddit - Post Title: Reddit Recap 2021 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,814 - INFO - Search Query: reddit - Post Title: Reddit 3 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,814 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,815 - INFO - Search Query: reddit - Post Title: Reddit, what do you think? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,815 - INFO - Search Query: reddit - Post Title: Reddit admins, how much time do you spend daily lurking on Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,815 - INFO - Search Query: reddit - Post Title: Reddit mods strike again - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,815 - INFO - Search Query: reddit - Post Title: Reddit Mobile right now  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,816 - INFO - Search Query: reddit - Post Title: Fidelity cuts Reddit valuation by 41% - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,816 - INFO - Search Query: reddit - Post Title: Reddit’s favorite Texas protestor. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,816 - INFO - Search Query: reddit - Post Title: Mojang exits Reddit, says they '"no longer feel that Reddit is an appropriate place to post official content or refer [its] players to". - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,816 - INFO - Search Query: reddit - Post Title: This father will do anything but accept his kid for who they are. I've reached the point of the internet where I've lost all connection to this world. - Sentiment: positive - Explanation: 
+love, product, terrible, service, worst, wouldn, but, the, ve, this
+2024-08-31 13:51:44,816 - INFO - Search Query: reddit - Post Title: Thanks Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,817 - INFO - Search Query: reddit - Post Title: Men of reddit, what is a 100% myth about men?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,817 - INFO - Search Query: reddit - Post Title: Parents of Reddit, what's it like raising Reddit? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:44,817 - INFO - Search Query: reddit - Post Title: [META] WE BROKE REDDIT - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,817 - INFO - Search Query: reddit - Post Title: A reddit without reposts would be a happier reddit - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:51:44,817 - INFO - Search Query: reddit - Post Title: Tall guys on Reddit Starterpack. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,818 - INFO - Search Query: reddit - Post Title: Do your magic reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,818 - INFO - Search Query: reddit - Post Title: ...dafuq? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,818 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,819 - INFO - Search Query: reddit - Post Title: reddit \U0001f44d - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,821 - INFO - Search Query: reddit - Post Title: Do it again Reddit!!! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:44,821 - INFO - Search Query: reddit - Post Title: The duality of reddit.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:44,821 - INFO - Search Query: reddit - Post Title: [ Removed by Reddit ] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,822 - INFO - Search Query: reddit - Post Title: Reddit on PC is actually better than Reddit app on mobile - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, better
+2024-08-31 13:51:44,822 - INFO - Search Query: reddit - Post Title: to ask for help on reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,822 - INFO - Search Query: reddit - Post Title: Reddit turning on Biden - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,822 - INFO - Search Query: reddit - Post Title: The 2024 Election if only Reddit could vote  - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, could
+2024-08-31 13:51:44,823 - INFO - Search Query: reddit - Post Title: Reddit current situation in a nutshell. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,823 - INFO - Search Query: reddit - Post Title: Parents of reddit, what's something that you think teenagers of reddit need to hear? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,823 - INFO - Search Query: reddit - Post Title: Reddit rap = Lil Dicky - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,823 - INFO - Search Query: reddit - Post Title: Hey Reddit! Draw my band please? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,824 - INFO - Search Query: reddit - Post Title: Reddit suppressing facts - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,824 - INFO - Search Query: reddit - Post Title: Reddit executives right now - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,824 - INFO - Search Query: reddit - Post Title: What's going on with 3rd party Reddit apps after the Reddit blackout? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:44,824 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,824 - INFO - Search Query: reddit - Post Title: Modern Reddit User Experience Starter Pack - Sentiment: negative - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, experience
+2024-08-31 13:51:44,825 - INFO - Search Query: reddit - Post Title: The reddit teenager experience: - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, experience
+2024-08-31 13:51:44,825 - INFO - Search Query: reddit - Post Title: Is Reddit dying? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:44,825 - INFO - Search Query: reddit - Post Title: The Reddit admins believe that this sub is for them, not ordinary Redditors, and we are happy to oblige: From now on, all QYBS posts must be related to lies/BS about Reddit, Reddit Inc., its admins, and related topics. - Sentiment: positive - Explanation: 
+love, product, terrible, service, worst, ve, wouldn, be, the, this
+2024-08-31 13:51:46,253 - INFO - Search Query: reddit - Post Title: Help me reddit is this picture real? - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:51:46,253 - INFO - Search Query: reddit - Post Title: Holup reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,254 - INFO - Search Query: reddit - Post Title: Reddit's former CEO Ellen Pao slams Reddit for 'amplifying hate, racism and violence' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,254 - INFO - Search Query: reddit - Post Title: Anon visits Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,254 - INFO - Search Query: reddit - Post Title: Reddit’s first earnings reveals they make $3 per user - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,255 - INFO - Search Query: reddit - Post Title: I shot my stalker tonight (Reddit story in real life) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,262 - INFO - Search Query: reddit - Post Title: I'm convinced I found Eminem's reddit account - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,262 - INFO - Search Query: reddit - Post Title: Most creative comments on reddit starterpack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,262 - INFO - Search Query: reddit - Post Title: Unfiltered ChatGPT opinion about Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,262 - INFO - Search Query: reddit - Post Title: Reddit mods - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,263 - INFO - Search Query: reddit - Post Title: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,263 - INFO - Search Query: reddit - Post Title: Reddit Atheist moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,263 - INFO - Search Query: reddit - Post Title: Seen in ask reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,263 - INFO - Search Query: reddit - Post Title: Accurate Reddit moderator image - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,263 - INFO - Search Query: reddit - Post Title: why Is there Reddit? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,264 - INFO - Search Query: reddit - Post Title: Fuck You Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,264 - INFO - Search Query: reddit - Post Title: Reddit brought back awards. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,264 - INFO - Search Query: reddit - Post Title: Don't Let Reddit Kill 3rd Party Apps! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,264 - INFO - Search Query: reddit - Post Title: I have 27 days reddit streak and you prolly dont - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,265 - INFO - Search Query: reddit - Post Title: Reddit when memes - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,265 - INFO - Search Query: reddit - Post Title: My Reddit experience this weekend... - Sentiment: negative - Explanation: 
+love, product, terrible, service, the, ve, wouldn, worst, experience, this
+2024-08-31 13:51:46,265 - INFO - Search Query: reddit - Post Title: Alfie, Reddit. Reddit, Alfie. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,265 - INFO - Search Query: reddit - Post Title: They Put a Reddit Guy in the Show - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,265 - INFO - Search Query: reddit - Post Title: Reddit traders aren't doing this - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:51:46,266 - INFO - Search Query: reddit - Post Title: Acronym Guide for Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,266 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,266 - INFO - Search Query: reddit - Post Title: Duality of reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,266 - INFO - Search Query: reddit - Post Title: What is the most infamous Reddit post? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,267 - INFO - Search Query: reddit - Post Title: How reddit sounds these days - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,267 - INFO - Search Query: reddit - Post Title: Sink It for Reddit, a totally free iOS Safari extension to make Reddit less user hostile. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:46,267 - INFO - Search Query: reddit - Post Title: Reddit Life - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,267 - INFO - Search Query: reddit - Post Title: Reddit rn: - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,267 - INFO - Search Query: reddit - Post Title: Reddit rn - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,268 - INFO - Search Query: reddit - Post Title: Don't Let Reddit Kill 3rd Party Apps! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,268 - INFO - Search Query: reddit - Post Title: Reddit is real life - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,268 - INFO - Search Query: reddit - Post Title: REDDIT MOMENT - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,268 - INFO - Search Query: reddit - Post Title: Do your worst Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, wouldn, worst
+2024-08-31 13:51:46,268 - INFO - Search Query: reddit - Post Title: Average reddit user - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,269 - INFO - Search Query: reddit - Post Title: I fucking love Reddit - Sentiment: positive - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, love
+2024-08-31 13:51:46,269 - INFO - Search Query: reddit - Post Title: Reddit is.... Reddit. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,269 - INFO - Search Query: reddit - Post Title: Me and Ranboo on a train. Reddit time. Please speak to me us on Reddit rn - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,269 - INFO - Search Query: reddit - Post Title: Reddit, help me - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,270 - INFO - Search Query: reddit - Post Title: Wholesome side of reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,270 - INFO - Search Query: reddit - Post Title: Just reddit being reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,270 - INFO - Search Query: reddit - Post Title: Found on reddit  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,270 - INFO - Search Query: reddit - Post Title: Don't Let Reddit Kill 3rd Party Apps! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,271 - INFO - Search Query: reddit - Post Title: Reddit in a nutshell - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,271 - INFO - Search Query: reddit - Post Title: Reddit Moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,271 - INFO - Search Query: reddit - Post Title: flag of fuck reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,271 - INFO - Search Query: reddit - Post Title: Reddit's triggers starter pack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,271 - INFO - Search Query: reddit - Post Title: I have reddit sub reddit on Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,272 - INFO - Search Query: reddit - Post Title: Some subreddits could be paywalled, hints Reddit CEO - Sentiment: neutral - Explanation: 
+love, product, terrible, the, ve, this, worst, wouldn, could, be
+2024-08-31 13:51:46,272 - INFO - Search Query: reddit - Post Title: NYAHELLOOOOO!!REDDIT! !\u30fb\u25b3\u30fb - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,272 - INFO - Search Query: reddit - Post Title: Big change for third party Reddit apps as Reddit will begin charging for access to its API - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,272 - INFO - Search Query: reddit - Post Title: Reddit api protest starter pack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,272 - INFO - Search Query: reddit - Post Title: [ Removed by Reddit ] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,273 - INFO - Search Query: reddit - Post Title: What did the Reddit blackouts actually accomplish? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,273 - INFO - Search Query: reddit - Post Title: Casually Explained: Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,273 - INFO - Search Query: reddit - Post Title: *closes Reddit* *immediately reopens Reddit* - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,273 - INFO - Search Query: reddit - Post Title: Reddit discusses Political Violence - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,274 - INFO - Search Query: reddit - Post Title: The Gang Talks Reddit  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,274 - INFO - Search Query: reddit - Post Title: Dare you, reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,274 - INFO - Search Query: reddit - Post Title: TIL my cat is on Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,274 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,274 - INFO - Search Query: reddit - Post Title: Let's make this photo trending on Reddit. Lets Reddit know it's UFO Hearings Day - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-08-31 13:51:46,275 - INFO - Search Query: reddit - Post Title: Reddit had all the answers - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, had
+2024-08-31 13:51:46,275 - INFO - Search Query: reddit - Post Title: coaxed into reddit front page - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,275 - INFO - Search Query: reddit - Post Title: Reddit Mods Ruined Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,275 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,276 - INFO - Search Query: reddit - Post Title: Reddit moment \U0001f60e - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,276 - INFO - Search Query: reddit - Post Title: What's going on with Reddit mods being angry at Reddit Admins? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,276 - INFO - Search Query: reddit - Post Title: Reddit biased against palestine? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,276 - INFO - Search Query: reddit - Post Title: Heil Spez, lord of the Reddit admins - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,276 - INFO - Search Query: reddit - Post Title: Reddit when baby - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,277 - INFO - Search Query: reddit - Post Title: Reddit Nation: A Tally of Your Team's Fan Base on Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,277 - INFO - Search Query: reddit - Post Title: Anon hates reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,277 - INFO - Search Query: reddit - Post Title: Best of reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,277 - INFO - Search Query: reddit - Post Title: Most paid reddit mod power triping - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,278 - INFO - Search Query: reddit - Post Title: Reddit Does Not Understand Trump Voters, and it Reflects Poorly on Reddit - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:46,278 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,278 - INFO - Search Query: reddit - Post Title: More people might see this Reddit post… - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:51:46,278 - INFO - Search Query: reddit - Post Title: Reddit atheist moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,279 - INFO - Search Query: reddit - Post Title: AskReddit Rule - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,279 - INFO - Search Query: reddit - Post Title: An attack on the reddit and tumblr communities - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,279 - INFO - Search Query: reddit - Post Title: Most average reddit moment. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,279 - INFO - Search Query: reddit - Post Title: Just reddit things. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,279 - INFO - Search Query: reddit - Post Title: Ahead of IPO, Reddit blends advertising into user posts - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,280 - INFO - Search Query: reddit - Post Title: Reddit, what’s completely legal that’s worse than murder? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,280 - INFO - Search Query: reddit - Post Title: Reddit rap - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,280 - INFO - Search Query: reddit - Post Title: Reddit moment - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,280 - INFO - Search Query: reddit - Post Title: Reddit Atheists (different from atheists on reddit) are absolute dicks - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,281 - INFO - Search Query: reddit - Post Title: Reddit Gold - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,281 - INFO - Search Query: reddit - Post Title: Reddit sure have standards - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,281 - INFO - Search Query: reddit - Post Title: Based Reddit in 2008 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,281 - INFO - Search Query: reddit - Post Title: A lot of Redditors hate the Reddit IPO | Reddit warned us that its users were a risk factor, and boy do they sound excited about shorting its stock. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,281 - INFO - Search Query: reddit - Post Title: Thanks, i hate reddit recap - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,282 - INFO - Search Query: reddit - Post Title: Being a boy on Reddit be like: - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, be
+2024-08-31 13:51:46,282 - INFO - Search Query: reddit - Post Title: Anon goes on reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,282 - INFO - Search Query: reddit - Post Title: Fuck Reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,282 - INFO - Search Query: reddit - Post Title: Reddit is kinda repetitive - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,729 - INFO - Search Query: reddit - Post Title: Lurkers of Reddit, why? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,729 - INFO - Search Query: reddit - Post Title: Reddit. Sick of explaining what Reddit is to outsiders? Upvote this so people see it when they Google ''Reddit'' - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-08-31 13:51:46,730 - INFO - Search Query: reddit - Post Title: Bye reddit, we had a good time - Sentiment: negative - Explanation: 
+product, recommend, the, service, ve, this, worst, wouldn, had, good
+2024-08-31 13:51:46,730 - INFO - Search Query: reddit - Post Title: Reddit, PLEASE BAN INCEL SUBREDDITS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,730 - INFO - Search Query: reddit - Post Title: Anon hates reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,730 - INFO - Search Query: reddit - Post Title: reddit - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,731 - INFO - Search Query: reddit - Post Title: We did it Reddit - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:51:46,731 - INFO - Search Query: reddit - Post Title: Cursed Reddit Logic - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,731 - INFO - Search Query: reddit - Post Title: New Reddit Gold Features! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,731 - INFO - Search Query: reddit - Post Title: Reddit's Racism - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,731 - INFO - Search Query: reddit - Post Title: least controversial reddit opinion: - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,732 - INFO - Search Query: reddit - Post Title: Reddit, Meet Nugget! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,732 - INFO - Search Query: reddit - Post Title: Conservatives threaten to leave reddit over site wide protest if covid misinformation, swear to "leave" and "delete reddit" over censorship. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,732 - INFO - Search Query: reddit - Post Title: Fidelity cuts Reddit's valuation by 41% - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,732 - INFO - Search Query: reddit - Post Title: Reddit is in danger of a death spiral - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,733 - INFO - Search Query: reddit - Post Title: Reddit superiority - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,733 - INFO - Search Query: reddit - Post Title: Reddit's most useful feature. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,733 - INFO - Search Query: reddit - Post Title: (Heil Spez) Reddit officer - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,733 - INFO - Search Query: reddit - Post Title: Reddit, c’mon man - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,733 - INFO - Search Query: reddit - Post Title: usuario de reddit deficiente - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,734 - INFO - Search Query: reddit - Post Title: What’s your biggest Reddit streak - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,734 - INFO - Search Query: reddit - Post Title: "girl on reddit" starterpack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,734 - INFO - Search Query: reddit - Post Title: The reddit blackout just showed me how addicted to Reddit I am - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:51:46,734 - INFO - Search Query: reddit - Post Title: Reddit rule - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,735 - INFO - Search Query: reddit - Post Title: I’m so mad at Reddit that I’m going to give Reddit thousands of dollars \U0001f92c - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,735 - INFO - Search Query: reddit - Post Title: Woman asks reddit "Am I a bad mom?" Reddit helps her realize she and her son deserve better - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, better
+2024-08-31 13:51:46,735 - INFO - Search Query: reddit - Post Title: Reddit's Immigrants - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:51:46,739 - INFO - 127.0.0.1 - - [31/Aug/2024 13:51:46] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:54:37,900 - INFO - 127.0.0.1 - - [31/Aug/2024 13:54:37] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-08-31 13:54:38,112 - INFO - Search Query: saturday
+2024-08-31 13:54:39,777 - INFO - Search Query: saturday - Post Title: Surya's Saturday Review Megathread  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,777 - INFO - Search Query: saturday - Post Title: SATURDAY!!!?? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,778 - INFO - Search Query: saturday - Post Title: [SPOILERS] S15 EP04 - SATURDAY - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,778 - INFO - Search Query: saturday - Post Title: saturday sold out? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,778 - INFO - Search Query: saturday - Post Title: Saturday, August 24, 2024 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,778 - INFO - Search Query: saturday - Post Title: Where to party on Saturday September 7th?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,778 - INFO - Search Query: saturday - Post Title: Season 15 episode 4: Saturday, official discussion thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,779 - INFO - Search Query: saturday - Post Title: So Saturday is just never going to release huh \U0001f614 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,780 - INFO - Search Query: saturday - Post Title: Saturday (tomorrow) clubbing (29/34 years old) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,780 - INFO - Search Query: saturday - Post Title: Official Poster for Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,780 - INFO - Search Query: saturday - Post Title: $250 Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,781 - INFO - Search Query: saturday - Post Title: SATURDAY NIGHT – Official Trailer (HD) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,781 - INFO - Search Query: saturday - Post Title: Saturday Morning Cartoon  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,781 - INFO - Search Query: saturday - Post Title: Foreign Ministry: Hezbollah crossed all red lines with Saturday massacre - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,781 - INFO - Search Query: saturday - Post Title: New Poster for Jason Reitman’s ‘Saturday Night’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,781 - INFO - Search Query: saturday - Post Title: 80s Saturday Morning Gold - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,782 - INFO - Search Query: saturday - Post Title: High on a Saturday morning  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,782 - INFO - Search Query: saturday - Post Title: went for a ride on saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,782 - INFO - Search Query: saturday - Post Title: Dad went on a rage mid Saturday night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,782 - INFO - Search Query: saturday - Post Title: Saturday laughs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,783 - INFO - Search Query: saturday - Post Title: Saturday mornings with kids vs Saturday mornings without kids - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,783 - INFO - Search Query: saturday - Post Title: Reflecting Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,783 - INFO - Search Query: saturday - Post Title: WSB Saturday Chat - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,783 - INFO - Search Query: saturday - Post Title: Saturday night's alright for fighting - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,783 - INFO - Search Query: saturday - Post Title: Buddy played this at saturday magic - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:39,784 - INFO - Search Query: saturday - Post Title: Ok but those Saturday morning cartoons hit different - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-08-31 13:54:39,784 - INFO - Search Query: saturday - Post Title: Thursday and Saturday are my favourite - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,784 - INFO - Search Query: saturday - Post Title: Trump caught 'struggling' in Saturday night speech as he tries to rant about Biden - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,784 - INFO - Search Query: saturday - Post Title: Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,785 - INFO - Search Query: saturday - Post Title: When you decide to work on a Saturday… - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,785 - INFO - Search Query: saturday - Post Title: First Images from Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,785 - INFO - Search Query: saturday - Post Title: Some climbers decided to climb up the active volcano Mt. Dukono in Indonesia on Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,785 - INFO - Search Query: saturday - Post Title: Got my car Saturday. Neighbor kid hits it and runs today. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:39,785 - INFO - Search Query: saturday - Post Title: Cecily Strong Leaving ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,786 - INFO - Search Query: saturday - Post Title: 1st Saturday of 2024 at Costco - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,786 - INFO - Search Query: saturday - Post Title: Finally bought a new car on Saturday after 10 years - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,786 - INFO - Search Query: saturday - Post Title: Texts with my boss on a Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,786 - INFO - Search Query: saturday - Post Title: Got married on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,787 - INFO - Search Query: saturday - Post Title: Punkie Johnson is leaving Saturday Night Live - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,787 - INFO - Search Query: saturday - Post Title: Saturday dance - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,787 - INFO - Search Query: saturday - Post Title: My wife trying to sleep in on a Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,787 - INFO - Search Query: saturday - Post Title: Got married on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,787 - INFO - Search Query: saturday - Post Title: [Jeff Saturday] Raiders look horrible - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,788 - INFO - Search Query: saturday - Post Title: Never again. This Saturday is just another day - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:39,788 - INFO - Search Query: saturday - Post Title: happy saturday :) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,788 - INFO - Search Query: saturday - Post Title: I drank 14 nonalcoholic beers on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,788 - INFO - Search Query: saturday - Post Title: saturdays are for the BOYZ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,788 - INFO - Search Query: saturday - Post Title: lovely saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,789 - INFO - Search Query: saturday - Post Title: ‘Saturday Night Live’ Officially Shuts Down Following Writers Strike - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,789 - INFO - Search Query: saturday - Post Title: Maya Rudolph To Play Kamala Harris On ‘Saturday Night Live’ Through 2024 Presidential Election - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,789 - INFO - Search Query: saturday - Post Title: Happy Holy Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,789 - INFO - Search Query: saturday - Post Title: My baby girl died Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,790 - INFO - Search Query: saturday - Post Title: Meme Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,790 - INFO - Search Query: saturday - Post Title: Russia to officially cut electricity to Finland from Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,790 - INFO - Search Query: saturday - Post Title: Tina Fey in talks to take over 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,790 - INFO - Search Query: saturday - Post Title: Im super excited for Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,791 - INFO - Search Query: saturday - Post Title: Superstonk Daily DD- Saturday 05-15-2021- SATURDAY SPECIAL POST- CAN'T STOP WON'T STOP!! THERE'S TOO MUCH HAPPENING TO STOP \U0001f680\U0001f680\U0001f680\U0001f680 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,792 - INFO - Search Query: saturday - Post Title: Newly discovered asteroid to pass close to Earth on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,792 - INFO - Search Query: saturday - Post Title: Saturday Night with PlayStation  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,792 - INFO - Search Query: saturday - Post Title: My own train cart at 8 pm on a Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,793 - INFO - Search Query: saturday - Post Title: Happy Saturday to everyone :D - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,793 - INFO - Search Query: saturday - Post Title: Saturday night in SF - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,793 - INFO - Search Query: saturday - Post Title: Saturday Night Live Ruthlessly Skewers Katie Britt - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,793 - INFO - Search Query: saturday - Post Title: Nirvana - Territorial Pissings (Saturday Night Live 1992) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,794 - INFO - Search Query: saturday - Post Title: Going To Disneyland On A Saturday Starter Pack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,794 - INFO - Search Query: saturday - Post Title: Friend missing since Friday Night/Saturday morning. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,794 - INFO - Search Query: saturday - Post Title: Saturdays - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,794 - INFO - Search Query: saturday - Post Title: My Mom Is Going To Die Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,794 - INFO - Search Query: saturday - Post Title: Saturdays Palestine Protest - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,795 - INFO - Search Query: saturday - Post Title: Charlottesville to remove Confederate monuments Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,795 - INFO - Search Query: saturday - Post Title: Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,795 - INFO - Search Query: saturday - Post Title: Mask Mandate for All Starting Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,795 - INFO - Search Query: saturday - Post Title: Maya Rudolph To Play Kamala Harris On ‘Saturday Night Live’ Through 2024 Presidential Election - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,796 - INFO - Search Query: saturday - Post Title: Saturday morning road trip! Off to the dog farm we go. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,796 - INFO - Search Query: saturday - Post Title: Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,796 - INFO - Search Query: saturday - Post Title: Tina Turner performs Proud Mary on Saturday Night Live, 1997 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,796 - INFO - Search Query: saturday - Post Title: Anyone else miss going to the mall on Saturdays in the 80s? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,796 - INFO - Search Query: saturday - Post Title: One of two fly traps I set out Saturday evening. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,797 - INFO - Search Query: saturday - Post Title: Those wyld saturday nights - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,797 - INFO - Search Query: saturday - Post Title: every Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,797 - INFO - Search Query: saturday - Post Title: For saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,797 - INFO - Search Query: saturday - Post Title: In the UK all crisps expire on a Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,798 - INFO - Search Query: saturday - Post Title: SATURDAYS ARE FOR THE BOYS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,798 - INFO - Search Query: saturday - Post Title: Picked up this beauty in Staunton, VA on Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:39,798 - INFO - Search Query: saturday - Post Title: /r/classicwow monday-saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,798 - INFO - Search Query: saturday - Post Title: Trump’s daily delusional “I did nothing wrong” rant. Happy Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,798 - INFO - Search Query: saturday - Post Title: Please help me name this fellow! Getting him on Saturday \U0001f970 - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:39,799 - INFO - Search Query: saturday - Post Title: Asking her on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,799 - INFO - Search Query: saturday - Post Title: He saw him Saturday \U0001f440 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,799 - INFO - Search Query: saturday - Post Title: The finals are set. India v South Africa on Saturday in Barbados - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:39,799 - INFO - Search Query: saturday - Post Title: Punkie Johnson Is Leaving 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,800 - INFO - Search Query: saturday - Post Title: It’s Ramen Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:39,800 - INFO - Search Query: saturday - Post Title: A normal Saturday night  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,800 - INFO - Search Query: saturday - Post Title: It's a Saturday miracle! Every week! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:39,800 - INFO - Search Query: saturday - Post Title: Every Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,801 - INFO - Search Query: saturday - Post Title: Happy Saturday Ribeye - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,801 - INFO - Search Query: saturday - Post Title: "Saturday at night" - "Sunday morning" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,801 - INFO - Search Query: saturday - Post Title: ITS FRIDAY THEN, THEN SATURDAY SUNDAY!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,801 - INFO - Search Query: saturday - Post Title: Saturday Night Carry - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:39,801 - INFO - Search Query: saturday - Post Title: Saturdays in Austin - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,267 - INFO - Search Query: saturday - Post Title: Classic Courier Mail for your Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,267 - INFO - Search Query: saturday - Post Title: Toronto Protest on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,267 - INFO - Search Query: saturday - Post Title: Funny color saturday(reupload) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,267 - INFO - Search Query: saturday - Post Title: Live WWE WrestleMania XL - Saturday Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,268 - INFO - Search Query: saturday - Post Title: Saturday arvo - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,268 - INFO - Search Query: saturday - Post Title: Saturday’s engagement photos update...she said yes! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,268 - INFO - Search Query: saturday - Post Title: We had a date planned this Saturday and he ghosted after a selfie.. I don’t understand. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, had, this
+2024-08-31 13:54:41,268 - INFO - Search Query: saturday - Post Title: Ryan Reaves just warming up for Rempe on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,269 - INFO - Search Query: saturday - Post Title: it's Saturday for me so don't delete it mods. - Sentiment: neutral - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,269 - INFO - Search Query: saturday - Post Title: Saturday snuggles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,269 - INFO - Search Query: saturday - Post Title: saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,269 - INFO - Search Query: saturday - Post Title: L.A. County again requiring masks indoors starting Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,270 - INFO - Search Query: saturday - Post Title: SATURDAY NIGHT – Official Trailer (HD)
+ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,270 - INFO - Search Query: saturday - Post Title: My backyard after the gender reveal party on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,270 - INFO - Search Query: saturday - Post Title: Happy Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,270 - INFO - Search Query: saturday - Post Title: Set Change on Saturday Night Live - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,271 - INFO - Search Query: saturday - Post Title: Vermont Senator Bernie Sanders endorses Vice President Kamala Harris at Portland rally Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,271 - INFO - Search Query: saturday - Post Title: First Images from Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,271 - INFO - Search Query: saturday - Post Title: Lauren Boebert’s Ex Called The Cops After Physical Fight in Public on Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,271 - INFO - Search Query: saturday - Post Title: Cars like these always make Saturdays great - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,272 - INFO - Search Query: saturday - Post Title: Saturday Night at your Grandparents' House - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,272 - INFO - Search Query: saturday - Post Title: [OC] Giveaway Saturday! Two Hammer Dice Towers! Bonk Your Buds [mod approved] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,272 - INFO - Search Query: saturday - Post Title: Libertarian convention crowd appears hostile to Trump ahead of Saturday speech - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,272 - INFO - Search Query: saturday - Post Title: Saturday Evening Industrializing - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,272 - INFO - Search Query: saturday - Post Title: A guy pulled out in front of my Semi Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,273 - INFO - Search Query: saturday - Post Title: Does anyone still watch Saturday morning cartoons? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,273 - INFO - Search Query: saturday - Post Title: Go to Arrowhead on Saturday you cowards - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,273 - INFO - Search Query: saturday - Post Title: Leslie Jones not returning to 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,273 - INFO - Search Query: saturday - Post Title: Saturday Night Vibes - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,274 - INFO - Search Query: saturday - Post Title: [Homemade] Saturday Roast. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,274 - INFO - Search Query: saturday - Post Title: Shitpost Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,274 - INFO - Search Query: saturday - Post Title: Official Poster for Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,274 - INFO - Search Query: saturday - Post Title: Welp this is how my Saturday went - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,274 - INFO - Search Query: saturday - Post Title: Saturday skate sesh- excited about her kickflip over a small gap - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,275 - INFO - Search Query: saturday - Post Title: Saturday night's alright for fighting - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,275 - INFO - Search Query: saturday - Post Title: my saturday nights weren't with SNL , but MADtv - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-08-31 13:54:41,275 - INFO - Search Query: saturday - Post Title: "Kinda wishing I never did Saturday." Thoughts?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,275 - INFO - Search Query: saturday - Post Title: Saturday morning with kids vs Saturday morning without. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,276 - INFO - Search Query: saturday - Post Title: My Local Costco Parking Lot on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,276 - INFO - Search Query: saturday - Post Title: Why does this only happen on Saturdays when I have plans - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,276 - INFO - Search Query: saturday - Post Title: The King meets Jordan Peterson on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,276 - INFO - Search Query: saturday - Post Title: I'm ready for Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,277 - INFO - Search Query: saturday - Post Title: A Saturday funny. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,277 - INFO - Search Query: saturday - Post Title: Watch my wife on Saturday pls!!!!!!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,277 - INFO - Search Query: saturday - Post Title: Largest tornado in Arkansas history happened on Saturday…. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,277 - INFO - Search Query: saturday - Post Title: Pizza Hut on a Saturday night in 1977 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,278 - INFO - Search Query: saturday - Post Title: Got Married Saturday. Wife Already Cheated - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,278 - INFO - Search Query: saturday - Post Title: Kenny and the boys working late on Saturday huh? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,278 - INFO - Search Query: saturday - Post Title: The mood of the political compass last Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,278 - INFO - Search Query: saturday - Post Title: Large parties Saturday night, incoming restrictions Monday afternoon. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,279 - INFO - Search Query: saturday - Post Title: Clinton scheduled to meet with FBI Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,279 - INFO - Search Query: saturday - Post Title: Peeked into my 18 year old sons "Saturday night" bag earlier, this is what I found.... - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,279 - INFO - Search Query: saturday - Post Title: Saturday Chill - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,279 - INFO - Search Query: saturday - Post Title: Saturday Night Live skit about Taylor Swift (featuring Travis Kelce) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,279 - INFO - Search Query: saturday - Post Title: [WDYWT] prom saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,280 - INFO - Search Query: saturday - Post Title: Judge allows Saturday voting before U.S. Senate runoff in Georgia - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,280 - INFO - Search Query: saturday - Post Title: Feeing Saturday Blues - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,281 - INFO - Search Query: saturday - Post Title: Not Ethan & Hila playing poker with the hawk tuah girl on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,281 - INFO - Search Query: saturday - Post Title: Matched with her and planned a date on Saturday until she sent this - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,281 - INFO - Search Query: saturday - Post Title: finally it's Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,281 - INFO - Search Query: saturday - Post Title: Olympics Day One Megathread (Saturday, July 27) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,281 - INFO - Search Query: saturday - Post Title: Saturday Morning... Let's Go!  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,282 - INFO - Search Query: saturday - Post Title: It’s senior Saturday! Can I see your sweet seniors? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,282 - INFO - Search Query: saturday - Post Title: it’s Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,282 - INFO - Search Query: saturday - Post Title: Saturday Times this weekend… - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,282 - INFO - Search Query: saturday - Post Title: How 75 looks. Birthday was Saturday when I turned 76. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,283 - INFO - Search Query: saturday - Post Title: Shitpost Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,283 - INFO - Search Query: saturday - Post Title: Cursed_Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,283 - INFO - Search Query: saturday - Post Title: Morphine was in a serious car accident Saturday night according to her Instagram story - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,283 - INFO - Search Query: saturday - Post Title: Feeling good and loving the Saturday 19F \U0001f495 - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, good
+2024-08-31 13:54:41,283 - INFO - Search Query: saturday - Post Title: Grandpa died on Saturday and left me his old axe. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,284 - INFO - Search Query: saturday - Post Title: ACLU says it raised $10 million since Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,284 - INFO - Search Query: saturday - Post Title: My baby bear died last Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,284 - INFO - Search Query: saturday - Post Title: Pete Davidson Expected to Exit ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,284 - INFO - Search Query: saturday - Post Title: Dave Chappelle To Host Post-Election ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,285 - INFO - Search Query: saturday - Post Title: Exciting saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,285 - INFO - Search Query: saturday - Post Title: Happy Wrestlemania Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,285 - INFO - Search Query: saturday - Post Title: My Saturday Night... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,285 - INFO - Search Query: saturday - Post Title: Olympics Day Eight Megathread (Saturday, August 3) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,286 - INFO - Search Query: saturday - Post Title: Fauci said he tested negative for coronavirus Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,286 - INFO - Search Query: saturday - Post Title: In honor of Saturday morning, recall the time when cartoons could only be seen on Saturday morning. - Sentiment: neutral - Explanation: 
+love, product, terrible, worst, ve, this, wouldn, the, could, be
+2024-08-31 13:54:41,286 - INFO - Search Query: saturday - Post Title: Montpelier VT on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,286 - INFO - Search Query: saturday - Post Title: This brewery that opens one minute later on Friday and Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,287 - INFO - Search Query: saturday - Post Title: U.S. abortion rights activists start 'summer of rage' with Saturday protests - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,287 - INFO - Search Query: saturday - Post Title: James Gunn’s ‘Superman’ Adds ‘Saturday Night Live’ Actor Beck Bennett
+ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,287 - INFO - Search Query: saturday - Post Title: Is It Finally Time to Put 'Saturday Night Live' to Bed? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,287 - INFO - Search Query: saturday - Post Title: Every Saturday night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,288 - INFO - Search Query: saturday - Post Title: This is how I love to start my saturday. - Sentiment: positive - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, love, this
+2024-08-31 13:54:41,288 - INFO - Search Query: saturday - Post Title: Petition to move Super Bowl to Saturday has over 80K signatures - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,288 - INFO - Search Query: saturday - Post Title: Sick uppercut from saturday's FOX card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,288 - INFO - Search Query: saturday - Post Title: Popplio Community Day Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,288 - INFO - Search Query: saturday - Post Title: [Game Thread] Saturday, March 23, 2024 - Yoffs: Championship Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,289 - INFO - Search Query: saturday - Post Title: State Fair Crowd Last Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,289 - INFO - Search Query: saturday - Post Title: ‘Saturday Night Live’ Post-Production Editors to Strike April 1 Show - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,289 - INFO - Search Query: saturday - Post Title: Report: Trump, Vance Coming to St. Cloud Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,289 - INFO - Search Query: saturday - Post Title: 9 million traded on a Saturday.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,290 - INFO - Search Query: saturday - Post Title: Voters turn out for Saturday voting in Georgia Senate runoff - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,290 - INFO - Search Query: saturday - Post Title: Halloween should be moved to the last Saturday of October. - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, be
+2024-08-31 13:54:41,290 - INFO - Search Query: saturday - Post Title: Saturday Night Live cast 1992 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,290 - INFO - Search Query: saturday - Post Title: Happy Saturday my dudes  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,944 - INFO - Search Query: saturday - Post Title: Saturday morning mood~ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,944 - INFO - Search Query: saturday - Post Title: My lazy Saturday face \U0001f618 28F - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,945 - INFO - Search Query: saturday - Post Title: Saturday.... #HelluvaBoss \U0001f920 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,945 - INFO - Search Query: saturday - Post Title: "Mr Saturday" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,946 - INFO - Search Query: saturday - Post Title: Saturday Break - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,946 - INFO - Search Query: saturday - Post Title: This is the last Saturday without CFB until January 2025  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:54:41,947 - INFO - Search Query: saturday - Post Title: It's Space Marine Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,947 - INFO - Search Query: saturday - Post Title: Saturday watch thread? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,948 - INFO - Search Query: saturday - Post Title: Dillon Danis cuts Logan Paul's face with a microphone before their upcoming bout this Saturday.  - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,948 - INFO - Search Query: saturday - Post Title: Saturday night  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,949 - INFO - Search Query: saturday - Post Title: Saturday evening TV in the 2000s was the best - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:54:41,949 - INFO - Search Query: saturday - Post Title: Saturday Chill - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,949 - INFO - Search Query: saturday - Post Title: guy i met on hinge that i’m going hiking with on saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,950 - INFO - Search Query: saturday - Post Title: Our rescue pupper Riley had his first birthday on Saturday! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, had
+2024-08-31 13:54:41,950 - INFO - Search Query: saturday - Post Title: Durham Police pulled over this insanely dangerous load on Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,951 - INFO - Search Query: saturday - Post Title: When it's Saturday, and you've got one last delivery to do! \U0001f606 - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, wouldn, worst, it, ve
+2024-08-31 13:54:41,951 - INFO - Search Query: saturday - Post Title: Lazy Saturday! Show me your lazy tux! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,952 - INFO - Search Query: saturday - Post Title: Is washing my sheets every Saturday and Tuesday overkill?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,952 - INFO - Search Query: saturday - Post Title: A Saturday morning in central Helsinki - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,953 - INFO - Search Query: saturday - Post Title: Up at 4am on a Saturday, by choice. I think this means I’m old. 45F - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,953 - INFO - Search Query: saturday - Post Title: Saturday meme - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,953 - INFO - Search Query: saturday - Post Title: Adopting this adorable guy on Saturday! - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:54:41,954 - INFO - Search Query: saturday - Post Title: Monks warming up on a Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,954 - INFO - Search Query: saturday - Post Title: Taylor Swift Out With Significant Others of Chiefs Players on Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,955 - INFO - Search Query: saturday - Post Title: Viaplay: About your own world title. You can win it on a Saturday. I heard you and your mechanics saying, you can’t drink then! | Max: Who knows, who knows. | Viaplay: Whether you can win it on Saturday? | Max: No, whether you can drink or not on Saturday. - Sentiment: neutral - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,955 - INFO - Search Query: saturday - Post Title: My Grandma Left This World Unexpectedly Saturday. Today I Received A Birthday Card In The Mail - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:54:41,956 - INFO - Search Query: saturday - Post Title: saturday is 9x9=81 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,956 - INFO - Search Query: saturday - Post Title: Abandoned Ship-Lines back to freezer on a Saturday afternoon - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,957 - INFO - Search Query: saturday - Post Title: Saturday Night (Photorealism Study) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,958 - INFO - Search Query: saturday - Post Title: Wait it’s Saturday? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:54:41,958 - INFO - Search Query: saturday - Post Title: My friend wants to hike Camelback on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:54:41,961 - INFO - 127.0.0.1 - - [31/Aug/2024 13:54:41] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:55:43,683 - INFO - 127.0.0.1 - - [31/Aug/2024 13:55:43] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-08-31 13:55:43,889 - INFO - Search Query: saturday
+2024-08-31 13:55:45,933 - INFO - Search Query: saturday - Post Title: Surya's Saturday Review Megathread  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,934 - INFO - Search Query: saturday - Post Title: SATURDAY!!!?? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,934 - INFO - Search Query: saturday - Post Title: [SPOILERS] S15 EP04 - SATURDAY - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,935 - INFO - Search Query: saturday - Post Title: saturday sold out? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,935 - INFO - Search Query: saturday - Post Title: Saturday, August 24, 2024 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,936 - INFO - Search Query: saturday - Post Title: Where to party on Saturday September 7th?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,936 - INFO - Search Query: saturday - Post Title: Season 15 episode 4: Saturday, official discussion thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,936 - INFO - Search Query: saturday - Post Title: So Saturday is just never going to release huh \U0001f614 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,937 - INFO - Search Query: saturday - Post Title: Saturday (tomorrow) clubbing (29/34 years old) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,937 - INFO - Search Query: saturday - Post Title: Official Poster for Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,937 - INFO - Search Query: saturday - Post Title: $250 Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,938 - INFO - Search Query: saturday - Post Title: SATURDAY NIGHT – Official Trailer (HD) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,938 - INFO - Search Query: saturday - Post Title: Saturday Morning Cartoon  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,938 - INFO - Search Query: saturday - Post Title: Foreign Ministry: Hezbollah crossed all red lines with Saturday massacre - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,939 - INFO - Search Query: saturday - Post Title: New Poster for Jason Reitman’s ‘Saturday Night’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,939 - INFO - Search Query: saturday - Post Title: 80s Saturday Morning Gold - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,940 - INFO - Search Query: saturday - Post Title: High on a Saturday morning  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,940 - INFO - Search Query: saturday - Post Title: went for a ride on saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,940 - INFO - Search Query: saturday - Post Title: Dad went on a rage mid Saturday night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,941 - INFO - Search Query: saturday - Post Title: Saturday laughs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,941 - INFO - Search Query: saturday - Post Title: Saturday mornings with kids vs Saturday mornings without kids - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,941 - INFO - Search Query: saturday - Post Title: Reflecting Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,942 - INFO - Search Query: saturday - Post Title: WSB Saturday Chat - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,942 - INFO - Search Query: saturday - Post Title: Saturday night's alright for fighting - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,942 - INFO - Search Query: saturday - Post Title: Buddy played this at saturday magic - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:45,943 - INFO - Search Query: saturday - Post Title: Ok but those Saturday morning cartoons hit different - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-08-31 13:55:45,943 - INFO - Search Query: saturday - Post Title: Thursday and Saturday are my favourite - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,944 - INFO - Search Query: saturday - Post Title: Trump caught 'struggling' in Saturday night speech as he tries to rant about Biden - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,944 - INFO - Search Query: saturday - Post Title: Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,944 - INFO - Search Query: saturday - Post Title: When you decide to work on a Saturday… - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,945 - INFO - Search Query: saturday - Post Title: First Images from Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,945 - INFO - Search Query: saturday - Post Title: Some climbers decided to climb up the active volcano Mt. Dukono in Indonesia on Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,946 - INFO - Search Query: saturday - Post Title: Got my car Saturday. Neighbor kid hits it and runs today. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:45,946 - INFO - Search Query: saturday - Post Title: Cecily Strong Leaving ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,946 - INFO - Search Query: saturday - Post Title: 1st Saturday of 2024 at Costco - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,947 - INFO - Search Query: saturday - Post Title: Finally bought a new car on Saturday after 10 years - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,947 - INFO - Search Query: saturday - Post Title: Texts with my boss on a Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,948 - INFO - Search Query: saturday - Post Title: Got married on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,948 - INFO - Search Query: saturday - Post Title: Punkie Johnson is leaving Saturday Night Live - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,948 - INFO - Search Query: saturday - Post Title: Saturday dance - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,949 - INFO - Search Query: saturday - Post Title: My wife trying to sleep in on a Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,949 - INFO - Search Query: saturday - Post Title: Got married on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,949 - INFO - Search Query: saturday - Post Title: [Jeff Saturday] Raiders look horrible - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,950 - INFO - Search Query: saturday - Post Title: Never again. This Saturday is just another day - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:45,950 - INFO - Search Query: saturday - Post Title: happy saturday :) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,950 - INFO - Search Query: saturday - Post Title: I drank 14 nonalcoholic beers on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,951 - INFO - Search Query: saturday - Post Title: saturdays are for the BOYZ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,951 - INFO - Search Query: saturday - Post Title: lovely saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,952 - INFO - Search Query: saturday - Post Title: ‘Saturday Night Live’ Officially Shuts Down Following Writers Strike - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,952 - INFO - Search Query: saturday - Post Title: Maya Rudolph To Play Kamala Harris On ‘Saturday Night Live’ Through 2024 Presidential Election - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,952 - INFO - Search Query: saturday - Post Title: Happy Holy Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,953 - INFO - Search Query: saturday - Post Title: My baby girl died Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,953 - INFO - Search Query: saturday - Post Title: Meme Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,953 - INFO - Search Query: saturday - Post Title: Russia to officially cut electricity to Finland from Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,954 - INFO - Search Query: saturday - Post Title: Tina Fey in talks to take over 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,954 - INFO - Search Query: saturday - Post Title: Im super excited for Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,954 - INFO - Search Query: saturday - Post Title: Superstonk Daily DD- Saturday 05-15-2021- SATURDAY SPECIAL POST- CAN'T STOP WON'T STOP!! THERE'S TOO MUCH HAPPENING TO STOP \U0001f680\U0001f680\U0001f680\U0001f680 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,955 - INFO - Search Query: saturday - Post Title: Newly discovered asteroid to pass close to Earth on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,955 - INFO - Search Query: saturday - Post Title: Saturday Night with PlayStation  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,955 - INFO - Search Query: saturday - Post Title: My own train cart at 8 pm on a Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,956 - INFO - Search Query: saturday - Post Title: Happy Saturday to everyone :D - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,956 - INFO - Search Query: saturday - Post Title: Saturday night in SF - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,956 - INFO - Search Query: saturday - Post Title: Saturday Night Live Ruthlessly Skewers Katie Britt - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,957 - INFO - Search Query: saturday - Post Title: Nirvana - Territorial Pissings (Saturday Night Live 1992) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,957 - INFO - Search Query: saturday - Post Title: Going To Disneyland On A Saturday Starter Pack - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,957 - INFO - Search Query: saturday - Post Title: Friend missing since Friday Night/Saturday morning. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,958 - INFO - Search Query: saturday - Post Title: Saturdays - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,958 - INFO - Search Query: saturday - Post Title: My Mom Is Going To Die Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,958 - INFO - Search Query: saturday - Post Title: Saturdays Palestine Protest - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,958 - INFO - Search Query: saturday - Post Title: Charlottesville to remove Confederate monuments Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,959 - INFO - Search Query: saturday - Post Title: Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,959 - INFO - Search Query: saturday - Post Title: Mask Mandate for All Starting Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,959 - INFO - Search Query: saturday - Post Title: Maya Rudolph To Play Kamala Harris On ‘Saturday Night Live’ Through 2024 Presidential Election - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,960 - INFO - Search Query: saturday - Post Title: Saturday morning road trip! Off to the dog farm we go. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,960 - INFO - Search Query: saturday - Post Title: Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,960 - INFO - Search Query: saturday - Post Title: Tina Turner performs Proud Mary on Saturday Night Live, 1997 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,960 - INFO - Search Query: saturday - Post Title: Anyone else miss going to the mall on Saturdays in the 80s? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,961 - INFO - Search Query: saturday - Post Title: One of two fly traps I set out Saturday evening. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,961 - INFO - Search Query: saturday - Post Title: Those wyld saturday nights - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,962 - INFO - Search Query: saturday - Post Title: every Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,962 - INFO - Search Query: saturday - Post Title: For saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,962 - INFO - Search Query: saturday - Post Title: In the UK all crisps expire on a Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,962 - INFO - Search Query: saturday - Post Title: SATURDAYS ARE FOR THE BOYS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,963 - INFO - Search Query: saturday - Post Title: Picked up this beauty in Staunton, VA on Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:45,963 - INFO - Search Query: saturday - Post Title: /r/classicwow monday-saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,963 - INFO - Search Query: saturday - Post Title: Trump’s daily delusional “I did nothing wrong” rant. Happy Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,963 - INFO - Search Query: saturday - Post Title: Please help me name this fellow! Getting him on Saturday \U0001f970 - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:45,964 - INFO - Search Query: saturday - Post Title: Asking her on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,964 - INFO - Search Query: saturday - Post Title: He saw him Saturday \U0001f440 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,964 - INFO - Search Query: saturday - Post Title: The finals are set. India v South Africa on Saturday in Barbados - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:45,964 - INFO - Search Query: saturday - Post Title: Punkie Johnson Is Leaving 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,965 - INFO - Search Query: saturday - Post Title: It’s Ramen Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:45,965 - INFO - Search Query: saturday - Post Title: A normal Saturday night  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,965 - INFO - Search Query: saturday - Post Title: It's a Saturday miracle! Every week! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:45,965 - INFO - Search Query: saturday - Post Title: Every Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,966 - INFO - Search Query: saturday - Post Title: Happy Saturday Ribeye - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,966 - INFO - Search Query: saturday - Post Title: "Saturday at night" - "Sunday morning" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,966 - INFO - Search Query: saturday - Post Title: ITS FRIDAY THEN, THEN SATURDAY SUNDAY!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,966 - INFO - Search Query: saturday - Post Title: Saturday Night Carry - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:45,967 - INFO - Search Query: saturday - Post Title: Saturdays in Austin - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,438 - INFO - Search Query: saturday - Post Title: Classic Courier Mail for your Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,438 - INFO - Search Query: saturday - Post Title: Toronto Protest on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,438 - INFO - Search Query: saturday - Post Title: Funny color saturday(reupload) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,439 - INFO - Search Query: saturday - Post Title: Live WWE WrestleMania XL - Saturday Discussion Thread! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,439 - INFO - Search Query: saturday - Post Title: Saturday arvo - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,439 - INFO - Search Query: saturday - Post Title: Saturday’s engagement photos update...she said yes! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,439 - INFO - Search Query: saturday - Post Title: We had a date planned this Saturday and he ghosted after a selfie.. I don’t understand. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, had, this
+2024-08-31 13:55:47,440 - INFO - Search Query: saturday - Post Title: Ryan Reaves just warming up for Rempe on Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,440 - INFO - Search Query: saturday - Post Title: it's Saturday for me so don't delete it mods. - Sentiment: neutral - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,440 - INFO - Search Query: saturday - Post Title: Saturday snuggles - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,440 - INFO - Search Query: saturday - Post Title: saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,441 - INFO - Search Query: saturday - Post Title: L.A. County again requiring masks indoors starting Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,441 - INFO - Search Query: saturday - Post Title: SATURDAY NIGHT – Official Trailer (HD)
+ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,441 - INFO - Search Query: saturday - Post Title: My backyard after the gender reveal party on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,441 - INFO - Search Query: saturday - Post Title: Happy Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,442 - INFO - Search Query: saturday - Post Title: Set Change on Saturday Night Live - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,442 - INFO - Search Query: saturday - Post Title: Vermont Senator Bernie Sanders endorses Vice President Kamala Harris at Portland rally Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,442 - INFO - Search Query: saturday - Post Title: First Images from Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,442 - INFO - Search Query: saturday - Post Title: Lauren Boebert’s Ex Called The Cops After Physical Fight in Public on Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,443 - INFO - Search Query: saturday - Post Title: Cars like these always make Saturdays great - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,443 - INFO - Search Query: saturday - Post Title: Saturday Night at your Grandparents' House - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,443 - INFO - Search Query: saturday - Post Title: [OC] Giveaway Saturday! Two Hammer Dice Towers! Bonk Your Buds [mod approved] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,443 - INFO - Search Query: saturday - Post Title: Libertarian convention crowd appears hostile to Trump ahead of Saturday speech - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,444 - INFO - Search Query: saturday - Post Title: Saturday Evening Industrializing - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,444 - INFO - Search Query: saturday - Post Title: A guy pulled out in front of my Semi Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,444 - INFO - Search Query: saturday - Post Title: Does anyone still watch Saturday morning cartoons? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,444 - INFO - Search Query: saturday - Post Title: Go to Arrowhead on Saturday you cowards - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,445 - INFO - Search Query: saturday - Post Title: Leslie Jones not returning to 'Saturday Night Live' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,445 - INFO - Search Query: saturday - Post Title: Saturday Night Vibes - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,445 - INFO - Search Query: saturday - Post Title: [Homemade] Saturday Roast. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,446 - INFO - Search Query: saturday - Post Title: Shitpost Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,446 - INFO - Search Query: saturday - Post Title: Official Poster for Jason Reitman's 'Saturday Night' - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,446 - INFO - Search Query: saturday - Post Title: Welp this is how my Saturday went - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,446 - INFO - Search Query: saturday - Post Title: Saturday skate sesh- excited about her kickflip over a small gap - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,447 - INFO - Search Query: saturday - Post Title: Saturday night's alright for fighting - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,447 - INFO - Search Query: saturday - Post Title: my saturday nights weren't with SNL , but MADtv - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-08-31 13:55:47,447 - INFO - Search Query: saturday - Post Title: "Kinda wishing I never did Saturday." Thoughts?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,447 - INFO - Search Query: saturday - Post Title: Saturday morning with kids vs Saturday morning without. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,448 - INFO - Search Query: saturday - Post Title: My Local Costco Parking Lot on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,448 - INFO - Search Query: saturday - Post Title: Why does this only happen on Saturdays when I have plans - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,448 - INFO - Search Query: saturday - Post Title: The King meets Jordan Peterson on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,448 - INFO - Search Query: saturday - Post Title: I'm ready for Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,449 - INFO - Search Query: saturday - Post Title: A Saturday funny. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,449 - INFO - Search Query: saturday - Post Title: Watch my wife on Saturday pls!!!!!!! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,449 - INFO - Search Query: saturday - Post Title: Largest tornado in Arkansas history happened on Saturday…. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,449 - INFO - Search Query: saturday - Post Title: Pizza Hut on a Saturday night in 1977 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,450 - INFO - Search Query: saturday - Post Title: Got Married Saturday. Wife Already Cheated - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,450 - INFO - Search Query: saturday - Post Title: Kenny and the boys working late on Saturday huh? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,450 - INFO - Search Query: saturday - Post Title: The mood of the political compass last Saturday  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,450 - INFO - Search Query: saturday - Post Title: Large parties Saturday night, incoming restrictions Monday afternoon. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,451 - INFO - Search Query: saturday - Post Title: Clinton scheduled to meet with FBI Saturday. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,451 - INFO - Search Query: saturday - Post Title: Peeked into my 18 year old sons "Saturday night" bag earlier, this is what I found.... - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,451 - INFO - Search Query: saturday - Post Title: Saturday Chill - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,452 - INFO - Search Query: saturday - Post Title: Saturday Night Live skit about Taylor Swift (featuring Travis Kelce) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,452 - INFO - Search Query: saturday - Post Title: [WDYWT] prom saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,452 - INFO - Search Query: saturday - Post Title: Judge allows Saturday voting before U.S. Senate runoff in Georgia - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,452 - INFO - Search Query: saturday - Post Title: Feeing Saturday Blues - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,453 - INFO - Search Query: saturday - Post Title: Not Ethan & Hila playing poker with the hawk tuah girl on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:47,453 - INFO - Search Query: saturday - Post Title: Matched with her and planned a date on Saturday until she sent this - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,453 - INFO - Search Query: saturday - Post Title: finally it's Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,454 - INFO - Search Query: saturday - Post Title: Olympics Day One Megathread (Saturday, July 27) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,454 - INFO - Search Query: saturday - Post Title: Saturday Morning... Let's Go!  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,454 - INFO - Search Query: saturday - Post Title: It’s senior Saturday! Can I see your sweet seniors? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,454 - INFO - Search Query: saturday - Post Title: it’s Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,455 - INFO - Search Query: saturday - Post Title: Saturday Times this weekend… - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,455 - INFO - Search Query: saturday - Post Title: How 75 looks. Birthday was Saturday when I turned 76. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,455 - INFO - Search Query: saturday - Post Title: Shitpost Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,455 - INFO - Search Query: saturday - Post Title: Cursed_Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,456 - INFO - Search Query: saturday - Post Title: Morphine was in a serious car accident Saturday night according to her Instagram story - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,456 - INFO - Search Query: saturday - Post Title: Feeling good and loving the Saturday 19F \U0001f495 - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, good
+2024-08-31 13:55:47,456 - INFO - Search Query: saturday - Post Title: Grandpa died on Saturday and left me his old axe. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,456 - INFO - Search Query: saturday - Post Title: ACLU says it raised $10 million since Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,457 - INFO - Search Query: saturday - Post Title: My baby bear died last Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,457 - INFO - Search Query: saturday - Post Title: Pete Davidson Expected to Exit ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,457 - INFO - Search Query: saturday - Post Title: Dave Chappelle To Host Post-Election ‘Saturday Night Live’ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,457 - INFO - Search Query: saturday - Post Title: Exciting saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,458 - INFO - Search Query: saturday - Post Title: Happy Wrestlemania Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,458 - INFO - Search Query: saturday - Post Title: My Saturday Night... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,458 - INFO - Search Query: saturday - Post Title: Olympics Day Eight Megathread (Saturday, August 3) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,458 - INFO - Search Query: saturday - Post Title: Fauci said he tested negative for coronavirus Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,459 - INFO - Search Query: saturday - Post Title: In honor of Saturday morning, recall the time when cartoons could only be seen on Saturday morning. - Sentiment: neutral - Explanation: 
+love, product, terrible, worst, ve, this, wouldn, the, could, be
+2024-08-31 13:55:47,459 - INFO - Search Query: saturday - Post Title: Montpelier VT on Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,460 - INFO - Search Query: saturday - Post Title: This brewery that opens one minute later on Friday and Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:47,460 - INFO - Search Query: saturday - Post Title: U.S. abortion rights activists start 'summer of rage' with Saturday protests - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,460 - INFO - Search Query: saturday - Post Title: James Gunn’s ‘Superman’ Adds ‘Saturday Night Live’ Actor Beck Bennett
+ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,460 - INFO - Search Query: saturday - Post Title: Is It Finally Time to Put 'Saturday Night Live' to Bed? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:47,461 - INFO - Search Query: saturday - Post Title: Every Saturday night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,461 - INFO - Search Query: saturday - Post Title: This is how I love to start my saturday. - Sentiment: positive - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, love, this
+2024-08-31 13:55:47,461 - INFO - Search Query: saturday - Post Title: Petition to move Super Bowl to Saturday has over 80K signatures - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,461 - INFO - Search Query: saturday - Post Title: Sick uppercut from saturday's FOX card - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,462 - INFO - Search Query: saturday - Post Title: Popplio Community Day Saturday! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,462 - INFO - Search Query: saturday - Post Title: [Game Thread] Saturday, March 23, 2024 - Yoffs: Championship Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,462 - INFO - Search Query: saturday - Post Title: State Fair Crowd Last Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,463 - INFO - Search Query: saturday - Post Title: ‘Saturday Night Live’ Post-Production Editors to Strike April 1 Show - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,463 - INFO - Search Query: saturday - Post Title: Report: Trump, Vance Coming to St. Cloud Saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,463 - INFO - Search Query: saturday - Post Title: 9 million traded on a Saturday.  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,464 - INFO - Search Query: saturday - Post Title: Voters turn out for Saturday voting in Georgia Senate runoff - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,464 - INFO - Search Query: saturday - Post Title: Halloween should be moved to the last Saturday of October. - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, the, be
+2024-08-31 13:55:47,464 - INFO - Search Query: saturday - Post Title: Saturday Night Live cast 1992 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:47,464 - INFO - Search Query: saturday - Post Title: Happy Saturday my dudes  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,153 - INFO - Search Query: saturday - Post Title: Saturday morning mood~ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,153 - INFO - Search Query: saturday - Post Title: My lazy Saturday face \U0001f618 28F - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,154 - INFO - Search Query: saturday - Post Title: Saturday.... #HelluvaBoss \U0001f920 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,154 - INFO - Search Query: saturday - Post Title: "Mr Saturday" - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,154 - INFO - Search Query: saturday - Post Title: Saturday Break - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,155 - INFO - Search Query: saturday - Post Title: This is the last Saturday without CFB until January 2025  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:55:48,155 - INFO - Search Query: saturday - Post Title: It's Space Marine Saturday - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:48,155 - INFO - Search Query: saturday - Post Title: Saturday watch thread? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,155 - INFO - Search Query: saturday - Post Title: Dillon Danis cuts Logan Paul's face with a microphone before their upcoming bout this Saturday.  - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:48,156 - INFO - Search Query: saturday - Post Title: Saturday night  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,156 - INFO - Search Query: saturday - Post Title: Saturday evening TV in the 2000s was the best - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-08-31 13:55:48,156 - INFO - Search Query: saturday - Post Title: Saturday Chill - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,157 - INFO - Search Query: saturday - Post Title: guy i met on hinge that i’m going hiking with on saturday - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,157 - INFO - Search Query: saturday - Post Title: Our rescue pupper Riley had his first birthday on Saturday! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, had
+2024-08-31 13:55:48,157 - INFO - Search Query: saturday - Post Title: Durham Police pulled over this insanely dangerous load on Saturday - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:48,158 - INFO - Search Query: saturday - Post Title: When it's Saturday, and you've got one last delivery to do! \U0001f606 - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, wouldn, worst, it, ve
+2024-08-31 13:55:48,158 - INFO - Search Query: saturday - Post Title: Lazy Saturday! Show me your lazy tux! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,158 - INFO - Search Query: saturday - Post Title: Is washing my sheets every Saturday and Tuesday overkill?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,158 - INFO - Search Query: saturday - Post Title: A Saturday morning in central Helsinki - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,159 - INFO - Search Query: saturday - Post Title: Up at 4am on a Saturday, by choice. I think this means I’m old. 45F - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:48,159 - INFO - Search Query: saturday - Post Title: Saturday meme - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,159 - INFO - Search Query: saturday - Post Title: Adopting this adorable guy on Saturday! - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-08-31 13:55:48,160 - INFO - Search Query: saturday - Post Title: Monks warming up on a Saturday morning - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,160 - INFO - Search Query: saturday - Post Title: Taylor Swift Out With Significant Others of Chiefs Players on Saturday Night - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,160 - INFO - Search Query: saturday - Post Title: Viaplay: About your own world title. You can win it on a Saturday. I heard you and your mechanics saying, you can’t drink then! | Max: Who knows, who knows. | Viaplay: Whether you can win it on Saturday? | Max: No, whether you can drink or not on Saturday. - Sentiment: neutral - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:48,161 - INFO - Search Query: saturday - Post Title: My Grandma Left This World Unexpectedly Saturday. Today I Received A Birthday Card In The Mail - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-08-31 13:55:48,161 - INFO - Search Query: saturday - Post Title: saturday is 9x9=81 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,161 - INFO - Search Query: saturday - Post Title: Abandoned Ship-Lines back to freezer on a Saturday afternoon - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,162 - INFO - Search Query: saturday - Post Title: Saturday Night (Photorealism Study) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,162 - INFO - Search Query: saturday - Post Title: Wait it’s Saturday? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-08-31 13:55:48,162 - INFO - Search Query: saturday - Post Title: My friend wants to hike Camelback on Saturday... - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-08-31 13:55:48,165 - INFO - 127.0.0.1 - - [31/Aug/2024 13:55:48] "POST /api/search HTTP/1.1" 200 -
+2024-08-31 13:56:46,582 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:46] "GET /search_results HTTP/1.1" 200 -
+2024-08-31 13:56:46,623 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:56:46,686 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:46] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:56:47,046 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:47] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:56:47,373 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:47] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-08-31 13:56:55,803 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:55] "GET /view_details/saturday HTTP/1.1" 200 -
+2024-08-31 13:56:56,079 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-08-31 13:56:56,143 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-08-31 13:56:56,260 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-08-31 13:56:56,580 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
