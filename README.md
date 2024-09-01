@@ -48,6 +48,7 @@ Create a .env file in the sentiment_analysis_backend directory with the followin
      PORT=5000
      PROTOCOL=http
      FLASK_ENV=True
+     CORS_ORIGINS=http://localhost:3000, https:://your_site_frontend_app.com
 
 **Frontend:** 
 
