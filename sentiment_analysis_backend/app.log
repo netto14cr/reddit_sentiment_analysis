@@ -16435,3 +16435,523 @@ love, product, recommend, service, terrible, the, this, ve, worst, wouldn
 2024-08-31 13:56:56,143 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
 2024-08-31 13:56:56,260 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
 2024-08-31 13:56:56,580 - INFO - 127.0.0.1 - - [31/Aug/2024 13:56:56] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:40:52,210 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:5000
+2024-09-01 11:40:52,211 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-01 11:40:52,213 - INFO -  * Restarting with stat
+2024-09-01 11:40:54,249 - WARNING -  * Debugger is active!
+2024-09-01 11:40:54,263 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 11:40:55,171 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:55] "GET / HTTP/1.1" 200 -
+2024-09-01 11:40:55,436 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:40:55,528 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:55] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:40:55,554 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-01 11:40:55,895 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:55] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:40:56,233 - INFO - 127.0.0.1 - - [01/Sep/2024 11:40:56] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:41:03,096 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:03] "GET /search_results HTTP/1.1" 200 -
+2024-09-01 11:41:03,312 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:03,437 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:03] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:03,774 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:03] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:41:03,781 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:03] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:41:13,265 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:13] "OPTIONS /api/search HTTP/1.1" 200 -
+2024-09-01 11:41:13,459 - INFO - Search Query: dxs
+2024-09-01 11:41:15,996 - INFO - Search Query: dxs - Post Title: New Ibuki's masterpiece! by DXS @Daijiashin - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,998 - INFO - Search Query: dxs - Post Title: Let's talk about: Talking about dxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,999 - INFO - Search Query: dxs - Post Title: Ceylon's Operation DxS (by @metameta_gross, TL by me) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,999 - INFO - Search Query: dxs - Post Title: 140 dxs! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,999 - INFO - Search Query: dxs - Post Title: How does DXS handle fluctuation - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,999 - INFO - Search Query: dxs - Post Title: Apeks DXS vs Shearwater Perdix 2 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:15,999 - INFO - Search Query: dxs - Post Title: What if Mario Kart 8 DX's roster updated and it looked like this? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-09-01 11:41:16,000 - INFO - Search Query: dxs - Post Title: Planes that come RTF with DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,000 - INFO - Search Query: dxs - Post Title: Peoblem Habu Sts with Spektrum DXS  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,000 - INFO - Search Query: dxs - Post Title: Was strolling through akihabara looking for DXs. Didn't know the Hi-Metal R VF-19 releases today. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,000 - INFO - Search Query: dxs - Post Title: Randy and Edge imitating DX's entrance was a great and forgotten feud for many - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,003 - INFO - Search Query: dxs - Post Title: Could anyone help? Trying to get dice for the event Play MONOPOLY GO! with me! Download it here: https://mply.io/ffdfa_8nDxs https://mply.io/ffdfa_8nDxs - Sentiment: neutral - Explanation: 
+product, recommend, service, worst, ve, this, wouldn, the, could, it
+2024-09-01 11:41:16,004 - INFO - Search Query: dxs - Post Title: Mark & Leland trained on PhiDX's Recent Twitch Streams. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,004 - INFO - Search Query: dxs - Post Title: Spectrum DXS remote and Cirrus issue - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,004 - INFO - Search Query: dxs - Post Title: WON: Vince McMahon OK'd use of his name in DX's HOF speech - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,004 - INFO - Search Query: dxs - Post Title: How do I program SAFE Select & Thrust Reverse on Spektrum DXS transmitter? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,005 - INFO - Search Query: dxs - Post Title: Spektrum DXS Transmitter $75 Obo - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,005 - INFO - Search Query: dxs - Post Title: Mini DX's turntable size? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,006 - INFO - Search Query: dxs - Post Title: Yamaha DXS 15 vs DXS 12 MKII - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,006 - INFO - Search Query: dxs - Post Title: Where to sell kamen rider dx's - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,006 - INFO - Search Query: dxs - Post Title: where to buy a bulk sale for dx's - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,006 - INFO - Search Query: dxs - Post Title: Question about Tetris DX's Tetramino randomization - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,007 - INFO - Search Query: dxs - Post Title: How to keep dust out of bandpass subwoofers?  Yamaha DXS-MKII in particular. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,007 - INFO - Search Query: dxs - Post Title: IF I Get Stuck With The DXs (From the Scam) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,007 - INFO - Search Query: dxs - Post Title: Rescue Team DX's Boxart. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,007 - INFO - Search Query: dxs - Post Title: Thoughts on DX's longevity? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,008 - INFO - Search Query: dxs - Post Title: Reddit keeps recommending r/illnessfakers because most of the instagram folks they criticize have EDS Dxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,008 - INFO - Search Query: dxs - Post Title: PhiDX's Anti-King Guide - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,008 - INFO - Search Query: dxs - Post Title: Introducing Pokémon Beyond DX's main characters! (NOT free to use) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,009 - INFO - Search Query: dxs - Post Title: Fatal Error and Kami DX's rivalry - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,009 - INFO - Search Query: dxs - Post Title: Empowering Retail Traders with DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,009 - INFO - Search Query: dxs - Post Title: Dxs transmitter from 230s smart heli to BTF planes - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,009 - INFO - Search Query: dxs - Post Title: A3. Hit. Sunk DashieProDX's Battleship. Who's next? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,010 - INFO - Search Query: dxs - Post Title: Yamaha DXS 10 Inch Plan Modified Box Design - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,010 - INFO - Search Query: dxs - Post Title: \u2714How VMeDx's Virtual Medical Assistants are Revolutionizing Healthcare? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,011 - INFO - Search Query: dxs - Post Title: Empowering Retail Traders with DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,011 - INFO - Search Query: dxs - Post Title: Enabling SAFE on a Spektrum AR630 with a DXS Transmitter - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,012 - INFO - Search Query: dxs - Post Title: DX's 1.5.2 Writing, Books, Learning update out now! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,012 - INFO - Search Query: dxs - Post Title: DxS - Heres to You - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,012 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) reports wider net loss for FY24 #News #ASX #ASIC #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,012 - INFO - Search Query: dxs - Post Title: DXS: Shaping the Future of Web3 Trading - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,013 - INFO - Search Query: dxs - Post Title: Spektrum DXS on Realflight Trainer - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,013 - INFO - Search Query: dxs - Post Title: Need help with the Dxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,013 - INFO - Search Query: dxs - Post Title: Does the DXS bind with Dsm2 receivers? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,013 - INFO - Search Query: dxs - Post Title: UMX Turbo Timber Evolution using a Spektrum DXS radio - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,014 - INFO - Search Query: dxs - Post Title: Radio DX's of October 2023 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,014 - INFO - Search Query: dxs - Post Title: Issues logging into DXS.app with HandCash - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,014 - INFO - Search Query: dxs - Post Title: what made you realize you were autistic (real dx's only or doctor is sure)? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,014 - INFO - Search Query: dxs - Post Title: #OrangeDX's launchpad #O4DX hub early access opened - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,015 - INFO - Search Query: dxs - Post Title: Radio DX's of October 2023 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,015 - INFO - Search Query: dxs - Post Title: UMX Ultrix not showing battery levels on my DXS (SPMR1010) Mode 2 Transmitter  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,015 - INFO - Search Query: dxs - Post Title: TX16S & DXS Buddy Box Setup - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,015 - INFO - Search Query: dxs - Post Title: Shortwave DX's 28.8.2023 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,015 - INFO - Search Query: dxs - Post Title: Will the dxs bind with the UMX Turbo Timber Evolution? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,016 - INFO - Search Query: dxs - Post Title: Radio DX's this week - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:16,016 - INFO - Search Query: dxs - Post Title: WLtoys F949 and Spektrum DXS controller - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,016 - INFO - Search Query: dxs - Post Title: Mammas maiden Studio and DXS 'Green Manalishi' Cover Collaboration - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,017 - INFO - Search Query: dxs - Post Title: DXS: Bridging The Space - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,017 - INFO - Search Query: dxs - Post Title: Unveiling the Potential of $O4DX: A Comprehensive Analysis of OrangeDX's Native Token - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,017 - INFO - Search Query: dxs - Post Title: Revolutionizing Bitcoin DeFi: OrangeDX's Journey to Redefine the Landscape - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,017 - INFO - Search Query: dxs - Post Title: Is it possible to bind a DXs to this plane? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, ve, wouldn, worst, it, this
+2024-09-01 11:41:16,018 - INFO - Search Query: dxs - Post Title: DXS – Revolutionising Web3 Trading with Global Market Access - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,018 - INFO - Search Query: dxs - Post Title: My DX'S this October | 2023 | - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:16,019 - INFO - Search Query: dxs - Post Title: Is a Night Timber / Timber X an OK trainer plane? Could I fly it with a DXs radio? - Sentiment: neutral - Explanation: 
+product, recommend, the, service, ve, this, worst, wouldn, it, could
+2024-09-01 11:41:16,019 - INFO - Search Query: dxs - Post Title: Whale trade in Dexus (ASX:DXS) #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,019 - INFO - Search Query: dxs - Post Title: Yamaha DXS 12 Inch Plan D12 Subwoofer Box Design, 6th Order BandPass - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,019 - INFO - Search Query: dxs - Post Title: My DX's this October | 2023 | - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:16,020 - INFO - Search Query: dxs - Post Title: DxS - Shared Experience, heavy NEU! And early Kraftwerk influence on this one. - Sentiment: negative - Explanation: 
+love, product, terrible, service, the, ve, wouldn, worst, experience, this
+2024-09-01 11:41:16,020 - INFO - Search Query: dxs - Post Title: ER Visit DXs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,020 - INFO - Search Query: dxs - Post Title: DX's Entrance (2009) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,020 - INFO - Search Query: dxs - Post Title: How To Stake HydraDX's HDX Token - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,021 - INFO - Search Query: dxs - Post Title: DxS - Modern Rock Song, Neo-Krautrock with NEU! Heavy influence. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,021 - INFO - Search Query: dxs - Post Title: PhiDX's thoughts on the changes to strings in Tekken 8 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,022 - INFO - Search Query: dxs - Post Title: Budget friendly upgrade from the Spektrum DXS? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,022 - INFO - Search Query: dxs - Post Title: Does PMD DX's recruited Pokemon have unique dialogues? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,022 - INFO - Search Query: dxs - Post Title: Combat DX's Taunts do funny things - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,022 - INFO - Search Query: dxs - Post Title: Debunking DX's video on Code Geass. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,023 - INFO - Search Query: dxs - Post Title: DXS Airdrop: 200 DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,023 - INFO - Search Query: dxs - Post Title: How to bind Spektrum DXS with SAFE select? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,023 - INFO - Search Query: dxs - Post Title: HydraDX's Basilisk dead? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,023 - INFO - Search Query: dxs - Post Title: Can I pair a Spectrum DXs to a Sport Cub 2s - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,024 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) logs mixed results for H1 FY24 #News #Investment #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,024 - INFO - Search Query: dxs - Post Title: DxS - 401. An ode to Kraftwerks timeless 1974 album "Autobahn". - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,024 - INFO - Search Query: dxs - Post Title: DxS - Dreamscape, Escape, a mix of CAN and Kraftwerk on this one was attempted. - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:16,025 - INFO - Search Query: dxs - Post Title: DxS - Man Vs AI (Isolation) Neo-Krautrock from canada - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,025 - INFO - Search Query: dxs - Post Title: Does the Spektrum DXs radio require Spektrum Smart batteries for its battery voltage lights and low voltage alarm to work? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,025 - INFO - Search Query: dxs - Post Title: DxS - Seasons Neo-Prog-Krautrock from Canada - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,026 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) has announced a dividend #News #Dividends #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,026 - INFO - Search Query: dxs - Post Title: DXS: Bridging The Space - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,026 - INFO - Search Query: dxs - Post Title: Port request :Dx's COtR Male Followers- Aurelian and derek - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,026 - INFO - Search Query: dxs - Post Title: Radio DX's 1st August to 7th August 2023 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,027 - INFO - Search Query: dxs - Post Title: DXS not showing voltage telemetry from AR620 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,027 - INFO - Search Query: dxs - Post Title: D-Link DXS 1100 and 1210 series RJ45 10GBase-T Switches - Worth buying? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,027 - INFO - Search Query: dxs - Post Title: Best settings electronic music on Yamaha dzr/dxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,028 - INFO - Search Query: dxs - Post Title: DXS: Bridging The Space - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,028 - INFO - Search Query: dxs - Post Title: DxS - Heres to You, Neo-Krautrock with blues rock, and psych fusion. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,028 - INFO - Search Query: dxs - Post Title: Spectrum DXS Transmitter - Trim - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,028 - INFO - Search Query: dxs - Post Title: DXS offers BSV-backed stablecoins and so much more - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:16,029 - INFO - Search Query: dxs - Post Title: In 2000, Run-DMC did a remix of DX's theme for WWF Aggression. The theme holds up really well. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:16,029 - INFO - Search Query: dxs - Post Title: New #metaverse #airdrop Dx Spot (DXS) Prize Pool: 300,000 DXS ($40k) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,276 - INFO - Search Query: dxs - Post Title: DxS - IDIFY, Electronic heavy krautrock from canada - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,276 - INFO - Search Query: dxs - Post Title: WWE.com photoshoot: Superstars break it down for DX's 20th anniversary feat. Nakamura, Hardy's, Breezango, New Day, 4 HW ect. - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-09-01 11:41:17,276 - INFO - Search Query: dxs - Post Title: DXS: Bridging The Space - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,276 - INFO - Search Query: dxs - Post Title: Whale trade in Dexus (ASX:DXS) #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,277 - INFO - Search Query: dxs - Post Title: Binding DXS to ws2000 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,277 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) completes Collimate Capital acquisition #Business #realestate #News #Australia #China - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,277 - INFO - Search Query: dxs - Post Title: Spectrum DXs transmitter with E-Flite F4U-4 Corsair BNF - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,277 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) elevates Ross Du Vernet to CEO #News #Investment #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,278 - INFO - Search Query: dxs - Post Title: Hypothetical question, if I have 3 carbon cub s2’s will the stock Dxs radios interfere with each other or are they all individually pre- programmed to each specific cub?  - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,278 - INFO - Search Query: dxs - Post Title: Is it possible to use the DXS transmitter on the BNF otter ? - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, it, the
+2024-09-01 11:41:17,278 - INFO - Search Query: dxs - Post Title: Best transmitter upgrade from Spektrum DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,278 - INFO - Search Query: dxs - Post Title: Rescue Team DX's developers should have done this so, you can get to keep the rescue team scarf in their evolved forms. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-09-01 11:41:17,280 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) records 5.2% drop in asset values #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,280 - INFO - Search Query: dxs - Post Title: Radio DX's of the week | 26-31st July 2023 | - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,280 - INFO - Search Query: dxs - Post Title: DHCP Manual Binding problem on DLINK DXS-3400-24SC - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,280 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) CEO to depart in 2024 #realestate #News #Australia #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,281 - INFO - Search Query: dxs - Post Title: DxS Frame Status Tracker - Because I Love Spreadsheets... - Sentiment: positive - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, love
+2024-09-01 11:41:17,281 - INFO - Search Query: dxs - Post Title: DX Spot DXS Airdrop total reward 5,000,000 DXS 1,00,0000 join fast - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,281 - INFO - Search Query: dxs - Post Title: Just got a DXS Pulse. It's certainly on the large side! - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, ve, this, worst, wouldn, the, it
+2024-09-01 11:41:17,284 - INFO - Search Query: dxs - Post Title: \U0001f525 Dx Spot Airdrop (DXS) \U0001f3c6 Winners: for all \U0001f381 Prize Pool: 5,000,000 DXS ($100k) \U0001f4b0 Reward: 1,000 DXS \U0001f465 Referral: 25 DXS \u23f3 Airdrop end date: Jan. 31, 2022 \u2b50\ufe0f Distribution date: 30 days after listing - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,284 - INFO - Search Query: dxs - Post Title: DX's Tacyns ModUpdate! Download Now! New Agri! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,285 - INFO - Search Query: dxs - Post Title: TestPost-OnlyTitle-vg3ZgWjDXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,285 - INFO - Search Query: dxs - Post Title: Can I setup safe with a DXS on PnP? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,285 - INFO - Search Query: dxs - Post Title: The attack (connected to DashieProDX's Post) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,285 - INFO - Search Query: dxs - Post Title: Giveaway 5,000,000 price pool DXS Coin || today new airdrop Dxs wallet token - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,286 - INFO - Search Query: dxs - Post Title: DX's difficulty - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,286 - INFO - Search Query: dxs - Post Title: Can’t get Carbon Cub S2 to talk to DXS transmitter - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,286 - INFO - Search Query: dxs - Post Title: Is there another segment WWE overhypes the importance of as much as DX's "Invasion" of WCW? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,286 - INFO - Search Query: dxs - Post Title: A preview on JamsDX's Rainy Friday Night mod. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,287 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) has announced a dividend #News #Dividends #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,287 - INFO - Search Query: dxs - Post Title: Whale trade in Dexus (ASX:DXS) #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,287 - INFO - Search Query: dxs - Post Title: DXS WORLD - CHILLOUT #4 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,287 - INFO - Search Query: dxs - Post Title: how big was DXS/phoenix - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,288 - INFO - Search Query: dxs - Post Title: Pronomxs neutrxs dxs Jecxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,288 - INFO - Search Query: dxs - Post Title: MR1&2 DX's CDDB of 664,909 entries solved on LegendCup.com - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,288 - INFO - Search Query: dxs - Post Title: Introducing DX's Ambassador Program - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,288 - INFO - Search Query: dxs - Post Title: My biggest criticisms of Rescue Team DX's changes from the originals - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,289 - INFO - Search Query: dxs - Post Title: Spektrum is a garbage company with overpriced crap. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,289 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) releases its 2023 annual performance results #News #Investment #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,289 - INFO - Search Query: dxs - Post Title: Whale trade in Dexus (ASX:DXS) #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,289 - INFO - Search Query: dxs - Post Title: Congratulations to Big KRIT!!! HipHopDX's Emcee Of The Year! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,290 - INFO - Search Query: dxs - Post Title: \u09b8\u09ac\u09be\u0987 $20 dxs \u099f\u09cb\u0995\u09c7\u09a8 \u09aa\u09be\u09ac\u09c7\u09a8 \u0964 dxs token\u0964 dx spot wallet \u0964 Online income bd 2021\u0964 earn money online 2021 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,290 - INFO - Search Query: dxs - Post Title: Generic Summoner WIP - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,291 - INFO - Search Query: dxs - Post Title: Dx Spot Airdrop DXS(30$) | Trust Wallet Airdrop Today | New Crypto Airdrop | Free DXS Coin - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,291 - INFO - Search Query: dxs - Post Title: Quest Of Graal DX's trailer and Steam page have been released ( multiplayer racing / platform games ) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,291 - INFO - Search Query: dxs - Post Title: A Surprise Character stole the Destiny spotlight at Dragon Con 2017 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,292 - INFO - Search Query: dxs - Post Title: Is there any difference between DXS flash and Luminate 44? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,292 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) $483M of sales #realestate #News #Australia #HealthCare #ASX - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,292 - INFO - Search Query: dxs - Post Title: Saveinfo.dxs missing - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,293 - INFO - Search Query: dxs - Post Title: Whale trade in Dexus (ASX:DXS) #News #ASX #Grafa - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,293 - INFO - Search Query: dxs - Post Title: Dxs summer slam 2021 entrance - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,293 - INFO - Search Query: dxs - Post Title: \U0001f680 Airdrop: Dx Spot (DXS) \U0001f4b0 Price : 0.15 USD/ DXS \U0001f4b8 Value: 200 $DXS \U0001f465 Referral: 5 $DXS (Top 10 Referral) \U0001f4c5 End Date: 31th January, 2022 \U0001f3e6 Distribution Date: 30 days after listing \u26a0\ufe0fPlease Remember: Only participate in completely free airdrops, never spend any penny for airdrop tokens. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,293 - INFO - Search Query: dxs - Post Title: Carbon Cub RTF/DXS Bind Problems - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,293 - INFO - Search Query: dxs - Post Title: Still celebrating DX's announcement (OC) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,294 - INFO - Search Query: dxs - Post Title: GilvaSunnerDX's attempt at uploading the entire B3313 OST. They have been uploading every other day and adding to this playlist. Unfortunately, and I'm not sure why, many videos are privated? (Explanation in comments) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, ve, wouldn, worst, the, this
+2024-09-01 11:41:17,294 - INFO - Search Query: dxs - Post Title: Screenshots from Pokemon ReDX's 2nd Beta - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,294 - INFO - Search Query: dxs - Post Title: Airdrop DX Spot (DXS) 2022 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,294 - INFO - Search Query: dxs - Post Title: DXS is in Trade Mining - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,295 - INFO - Search Query: dxs - Post Title: Got my first DXs today on this homebrew antenna.. to Belgium and LAX! - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:17,295 - INFO - Search Query: dxs - Post Title: Can you program a DXs transmitter so that switch D is channel 6 instead of 7? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,295 - INFO - Search Query: dxs - Post Title: MXK4 KL4RYT DX's setup - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,296 - INFO - Search Query: dxs - Post Title: dxs smooth 1v1s [8453-9057-0917] - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,296 - INFO - Search Query: dxs - Post Title: Dx Spot $dxs Chart, Price and Contract - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,296 - INFO - Search Query: dxs - Post Title: Spetrum ar620 and dxs transmitter - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,296 - INFO - Search Query: dxs - Post Title: \U0001f525 Dx Spot Airdrop (DXS)|| Reward For All User - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,297 - INFO - Search Query: dxs - Post Title: New Airdrop Dexstream DXS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,297 - INFO - Search Query: dxs - Post Title: Binding Spectrum DXS to Hobbyzone Champ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,297 - INFO - Search Query: dxs - Post Title: CH-47F Statement | Weapons Development Progress | Summer Sale Extension - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,297 - INFO - Search Query: dxs - Post Title: First image of Pokkén Tournament DX's split-screen mode - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,298 - INFO - Search Query: dxs - Post Title: Miracle doctor solves medical mystery! /s - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,298 - INFO - Search Query: dxs - Post Title: DXS (aka TDXP) and Jack Liu (relayX) exposing each other as a Ponzi scammer - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,298 - INFO - Search Query: dxs - Post Title: Dx Spot Wallet offer 1000 dxs token bonus - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,298 - INFO - Search Query: dxs - Post Title: \U0001f605 Mega Promoção! \U0001f632 D-Link DXS-1210-10TS switch de rede Gerido L2/L3 10G DXS-1210-10TS \u274c 1511.36€ | \u2705 1231.62€ | \U0001f381 -280€ Ver Produto: https://ayr.app/l/pGz1 #DLink - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,299 - INFO - Search Query: dxs - Post Title: This seems topical: Dx's Elf Squad - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:17,306 - INFO - Search Query: dxs - Post Title: Anybody has 3d files for both aquasports and aquasports dx's magazine upgrades? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,306 - INFO - Search Query: dxs - Post Title: How do I program my spektrum dxs? All the channels are already set up properly besides the flaps. My dxe had a USB thing but it doesn't work on the dxs I don't think. - Sentiment: negative - Explanation: 
+service, recommend, wouldn, worst, ve, this, it, had, but, the
+2024-09-01 11:41:17,306 - INFO - Search Query: dxs - Post Title: I made Pokémon Mystery Dungeon WhatsApp Stickers with Rescue Team DX's portraits here to share incase someone wants it - Sentiment: negative - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, it
+2024-09-01 11:41:17,306 - INFO - Search Query: dxs - Post Title: Missing texture problem with Dx's Clef J's Villages SE - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,307 - INFO - Search Query: dxs - Post Title: New Arrivals! Eevees in Ponchos and Sleeping Flareon and 2 DXs and Comfy Friends!~ - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,307 - INFO - Search Query: dxs - Post Title: Dexus (ASX:DXS) appointment of non-executive directors #Energy #News #Investment #HealthCare #Sustainability - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,307 - INFO - Search Query: dxs - Post Title: This is why MW uses influences to advise on guns/gear setup.... https://fb.watch/hRl9xUlDXS/ - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:17,307 - INFO - Search Query: dxs - Post Title: Endless DEX Liquidity with HydraDX's LRNA and Omnipool on Polkadot - Csaint's Alpha Shots - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,308 - INFO - Search Query: dxs - Post Title: Loading imported .dxs save-files - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,308 - INFO - Search Query: dxs - Post Title: Never got the original DXs when I was a kid, skipped Legacy, missed out on SoC. REALLY happy to have these. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,308 - INFO - Search Query: dxs - Post Title: 20$ DXS Token Dx Spot Airdrop DexPro App - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,308 - INFO - Search Query: dxs - Post Title: My reaction to DX's Ekans sprite - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,309 - INFO - Search Query: dxs - Post Title: DX SPOT Airdrop? Get 1,000 DXS (~$20) \U0001f579 BSC NETWORK - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,309 - INFO - Search Query: dxs - Post Title: DX SPOT AIRDROP DXS |AIRDROP WHITELIST M\u1ed6I NGÀY| AWMN| - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,309 - INFO - Search Query: dxs - Post Title: how do I get a Spektrum DXS radio system to communicate with a single board computer? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,309 - INFO - Search Query: dxs - Post Title: osu!std Dxs_Jdowe | Blatant - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,310 - INFO - Search Query: dxs - Post Title: More interesting stuff inside Rescue Team DX's code, that hint that a Explorers remake will use the same engine as RTDX. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,310 - INFO - Search Query: dxs - Post Title: For the men who need to get their picture taken down from "Are We Dating the Same Guy?" group, here is a potential solution. - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,310 - INFO - Search Query: dxs - Post Title: What are the DXs you enjoy in the Vue Community? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,310 - INFO - Search Query: dxs - Post Title: Endless DEX Liquidity with HydraDX's LRNA and Omnipool on Polkadot - Csaint's Alpha Shots - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,311 - INFO - Search Query: dxs - Post Title: New Airdrop: DX SPOT Airdrop || Reward: 200 DXS tokens - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,311 - INFO - Search Query: dxs - Post Title: Thoughts on $BTC #Bitcoin! See bradlives's idea on TradingView below. https://t.co/iDXsASSq9S - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,311 - INFO - Search Query: dxs - Post Title: I’m IN LOVE with Sandy Liang’s Sk8-Hi 38 Dxs - Sentiment: positive - Explanation: 
+product, recommend, terrible, service, the, this, worst, ve, wouldn, love
+2024-09-01 11:41:17,311 - INFO - Search Query: dxs - Post Title: DxS - Seasons EP, Neo-Krautrock releasing on streaming services october 26th, 2023. But for yall, heres a free download link on bandcamp - Sentiment: neutral - Explanation: 
+love, product, terrible, service, the, this, worst, ve, wouldn, but
+2024-09-01 11:41:17,312 - INFO - Search Query: dxs - Post Title: Retroid Pocket 4 Pro - 40+ Switch games tested - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,312 - INFO - Search Query: dxs - Post Title: Three nights and my first three DXs from my crappy apartment location - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,668 - INFO - Search Query: dxs - Post Title: Stupid comment from DX's "Star Wars - A Critique Of The Sequels" video - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,668 - INFO - Search Query: dxs - Post Title: Does the Spektrum DXS work with the Spektrum WS2000 wireless dongle? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,669 - INFO - Search Query: dxs - Post Title: Cara beli token DXSPOT ( DXS ) di trust wallet ? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,669 - INFO - Search Query: dxs - Post Title: I am creator of "front page Akali fanart" :) - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,669 - INFO - Search Query: dxs - Post Title: This is what F-Zero AX DX's boot-up process looks like - Sentiment: positive - Explanation: 
+love, product, recommend, service, terrible, the, ve, worst, wouldn, this
+2024-09-01 11:41:17,669 - INFO - Search Query: dxs - Post Title: Airdrop gratis 1000 DXS setiap pengguna || airdrop wallet DX SPOT - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,670 - INFO - Search Query: dxs - Post Title: Colorful Connections: Mastering the Flow Free Puzzle of the Week Video : https://youtu.be/rnChaqDXsZ4 - Sentiment: negative - Explanation: 
+love, product, terrible, service, ve, this, worst, wouldn, be, the
+2024-09-01 11:41:17,670 - INFO - Search Query: dxs - Post Title: AMP (ASX:AMP) completes first stage of part-sale to Dexus (ASX:DXS) #Business #realestate #News #Investment #ASX - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,670 - INFO - Search Query: dxs - Post Title: DX Spot wallet biggest airdrop $50 | #DXS Get free income $400 - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,670 - INFO - Search Query: dxs - Post Title: CricketDX's Reference - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,670 - INFO - Search Query: dxs - Post Title: Can I Bind The Speckturm DXs to the Sport Cub s2? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, this, worst, ve, wouldn, the
+2024-09-01 11:41:17,671 - INFO - Search Query: dxs - Post Title: Can you choose Shoutmon DX's digivolution cost when evolving from a lvl 6? - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,671 - INFO - Search Query: dxs - Post Title: Dx Spot Airdrop DXS\U0001f4b0Reward:$200 DXS Vconomics Airdrop Reward: up to 585 MICS - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,671 - INFO - Search Query: dxs - Post Title: KENAPA DX SPOT HARGANYA DUMP SETELAH LISTING DI HOTBIT..!! DXS TOKEN - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,671 - INFO - Search Query: dxs - Post Title: Original Outer Space Drawing by Kriss Dxs | Modern Art on Paper | LUX AETERNA - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,672 - INFO - Search Query: dxs - Post Title: dxs - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,672 - INFO - Search Query: dxs - Post Title: New Yamaha DZR / DXS XLF Powered Speakers - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,672 - INFO - Search Query: dxs - Post Title: Finally found a decent pair of these Veggie Tan Leather Old Skool DXs! - Sentiment: negative - Explanation: 
+love, product, recommend, service, terrible, the, this, ve, worst, wouldn
+2024-09-01 11:41:17,674 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:17] "POST /api/search HTTP/1.1" 200 -
+2024-09-01 11:41:45,387 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:45] "GET /search_results HTTP/1.1" 200 -
+2024-09-01 11:41:45,618 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:45,711 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:45] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:46,040 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:46] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:41:46,047 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:46] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:41:55,059 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:55] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:41:55,551 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:55] "GET /search_results HTTP/1.1" 200 -
+2024-09-01 11:41:55,877 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:55,877 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:55] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:41:56,219 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:56] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:41:56,227 - INFO - 127.0.0.1 - - [01/Sep/2024 11:41:56] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:42:02,073 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:02] "GET / HTTP/1.1" 200 -
+2024-09-01 11:42:02,339 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:02,404 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:02] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:02,721 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:02] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:42:02,729 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:02] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:42:03,482 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:03] "GET /search_results HTTP/1.1" 200 -
+2024-09-01 11:42:03,713 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:03,821 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:03] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:03,853 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:03] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:42:03,865 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:03] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:42:07,272 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:07] "GET /view_details/dxs HTTP/1.1" 200 -
+2024-09-01 11:42:07,442 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:07,598 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:07] "[36mGET /static/js/intall_app.js HTTP/1.1[0m" 304 -
+2024-09-01 11:42:07,943 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:07] "[36mGET /static/pwa/service/manifest.json HTTP/1.1[0m" 304 -
+2024-09-01 11:42:07,948 - INFO - 127.0.0.1 - - [01/Sep/2024 11:42:07] "[36mGET /static/pwa/os/ios/144.png HTTP/1.1[0m" 304 -
+2024-09-01 11:59:03,929 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 11:59:04,758 - INFO -  * Restarting with stat
+2024-09-01 11:59:08,677 - WARNING -  * Debugger is active!
+2024-09-01 11:59:08,690 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 11:59:35,262 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 11:59:35,422 - INFO -  * Restarting with stat
+2024-09-01 11:59:37,570 - WARNING -  * Debugger is active!
+2024-09-01 11:59:37,580 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 11:59:38,850 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 11:59:38,992 - INFO -  * Restarting with stat
+2024-09-01 11:59:40,909 - WARNING -  * Debugger is active!
+2024-09-01 11:59:40,919 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 11:59:43,269 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 11:59:43,425 - INFO -  * Restarting with stat
+2024-09-01 11:59:45,397 - WARNING -  * Debugger is active!
+2024-09-01 11:59:45,407 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 11:59:54,327 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 11:59:54,502 - INFO -  * Restarting with stat
+2024-09-01 11:59:56,552 - WARNING -  * Debugger is active!
+2024-09-01 11:59:56,597 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 12:04:19,854 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 12:04:20,002 - INFO -  * Restarting with stat
+2024-09-01 12:04:22,012 - WARNING -  * Debugger is active!
+2024-09-01 12:04:22,021 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 12:04:53,914 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 12:04:54,065 - INFO -  * Restarting with stat
+2024-09-01 12:04:55,872 - WARNING -  * Debugger is active!
+2024-09-01 12:04:55,882 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 12:06:13,495 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 12:06:13,634 - INFO -  * Restarting with stat
+2024-09-01 12:06:15,565 - WARNING -  * Debugger is active!
+2024-09-01 12:06:15,574 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 12:12:27,969 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 12:12:28,221 - INFO -  * Restarting with stat
+2024-09-01 12:12:31,018 - WARNING -  * Debugger is active!
+2024-09-01 12:12:31,031 - INFO -  * Debugger PIN: 638-882-250
+2024-09-01 12:12:38,842 - INFO -  * Detected change in 'D:\\Documentos\\UNIVERSIDAD NACIONAL\\2022\\CURSOS\\PYTHON\\FLASK APP\\reddit_sentiment_analysis\\sentiment_analysis_backend\\app.py', reloading
+2024-09-01 12:12:39,014 - INFO -  * Restarting with stat

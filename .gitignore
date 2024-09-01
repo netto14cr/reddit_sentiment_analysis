@@ -5,3 +5,4 @@ sentiment_analysis_backend/.env
 /sentiment_analysis_frontend/.env
 /sentiment_analysis_frontend/node_modules
 sentiment_analysis_backend/app.log
+sentiment_analysis_backend/app.log

@@ -14,8 +14,11 @@ import threading
 # Load environment variables from .env file
 load_dotenv()
 
+# Read CORS origins from environment variable and convert to list
+cors_origins = os.getenv('CORS_ORIGINS', '').split(',')
+
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+CORS(app, origins=cors_origins)  # Enable CORS for all routes
 app.secret_key = 'your_secret_key_here'
 
 
@@ -42,7 +45,7 @@ def read_log_data():
     explanation_pattern = re.compile(r'Explanation: (.+)')
     
     if os.path.exists('app.log'):
-        with open('app.log', 'r') as file:
+        with open('app.log', 'r', encoding='latin1') as file:
             lines = file.readlines()
             for line in lines:
                 search_query_match = search_query_pattern.search(line)
@@ -56,6 +59,7 @@ def read_log_data():
                         'sentiment': sentiment_match.group(1)
                     })
     return log_entries
+
 
 
 @app.route('/search_results')
@@ -138,15 +142,17 @@ def system_info():
 def env_vars():
     env_file = os.path.join(os.path.dirname(__file__), '.env')
     env_vars = {}
-    
-    # Leer el archivo .env para obtener todas las variables
-    with open(env_file) as f:
-        for line in f:
-            if line.strip():
-                key, value = line.strip().split('=', 1)
-                env_vars[key] = value
 
-    # Asegúrate de que las variables de entorno requeridas estén en el diccionario
+    # Check if the .env file exists
+    if os.path.exists(env_file):
+        # Read the .env file to get all the variables
+        with open(env_file) as f:
+            for line in f:
+                if line.strip():
+                    key, value = line.strip().split('=', 1)
+                    env_vars[key] = value
+
+    # Ensure that required environment variables are in the dictionary
     important_env_vars = {
         "REDDIT_CLIENT_ID": env_vars.get("REDDIT_CLIENT_ID", ""),
         "REDDIT_CLIENT_SECRET": env_vars.get("REDDIT_CLIENT_SECRET", ""),
@@ -157,7 +163,15 @@ def env_vars():
         "FLASK_ENV": env_vars.get("FLASK_ENV", ""),
     }
 
-    return render_template('admin/env_vars.html', env_vars=important_env_vars)
+    # If no variables were loaded, provide an error message
+    if not env_vars:
+        error_message = "The .env file was not found, this functionality is not available in production servers, only in development environments."
+    else:
+        error_message = None
+
+    return render_template('admin/env_vars.html',
+                           env_vars=important_env_vars,
+                           error_message=error_message)
 
 
 
